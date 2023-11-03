@@ -1,0 +1,1589 @@
+start_token,end_token,supersense_category,text
+1,1,verb.stative,IS
+4,5,noun.person,Sylvia Mendez
+10,10,noun.act,Fight
+12,19,noun.group,Desegregation DUNCAN TONATIUH ABRAMS BOOKS FOR YOUNG READERS
+21,23,noun.location,NEW YORK START
+34,34,verb.stative,were
+40,40,noun.body,hair
+41,41,verb.stative,was
+47,47,noun.artifact,trenzas
+50,50,verb.stative,was
+53,53,noun.time,day
+56,56,noun.group,Westminster
+57,57,noun.artifact,school
+60,60,noun.artifact,halls
+64,64,noun.person,students
+68,69,verb.contact,looking for
+71,71,noun.artifact,locker
+76,76,noun.person,boy
+77,77,verb.communication,pointed
+81,81,verb.communication,yelled
+84,85,verb.motion,Go back
+89,89,noun.artifact,school
+94,94,verb.stative,belong
+100,100,noun.relation,rest
+103,103,noun.time,day
+105,105,noun.person,Sylvia
+108,108,verb.communication,speak
+110,110,verb.communication,introduce
+114,114,noun.act,classes
+117,117,verb.stative,kept
+119,119,noun.body,head
+122,122,verb.motion,walking
+125,125,noun.artifact,halls
+129,129,verb.motion,got
+132,132,noun.time,afternoon
+135,135,verb.communication,told
+137,137,noun.person,mom
+139,139,noun.person,Felicitas
+143,143,verb.change,happened
+151,152,verb.stative,go to
+154,154,noun.group,school
+158,158,noun.person,kids
+159,159,verb.stative,are
+164,164,noun.person,Sylvia
+167,167,verb.communication,said
+169,169,noun.person,mother
+184,184,verb.cognition,know
+186,186,verb.stative,is
+189,189,verb.competition,fought
+194,194,noun.time,years
+199,199,noun.time,summer
+203,203,noun.person,Sylvia
+206,206,noun.person,brothers
+208,208,noun.person,Jerome
+210,211,noun.person,Gonzalo Jr.
+215,215,noun.person,parents
+217,217,verb.motion,moved
+221,221,noun.location,city
+223,224,noun.location,Santa Ana
+226,226,noun.location,California
+230,230,noun.artifact,farm
+233,233,noun.location,Westminster
+236,236,noun.person,father
+238,239,noun.person,Gonzalo Mendez
+242,242,verb.social,labored
+244,244,noun.time,years
+247,247,noun.person,field
+249,249,noun.person,worker
+251,251,verb.contact,picking
+252,252,noun.plant,grapes
+254,254,noun.food,oranges
+259,259,verb.possession,leasing
+261,261,noun.artifact,farm
+267,267,verb.stative,be
+269,269,noun.person,boss
+274,274,noun.artifact,farm
+279,279,verb.change,grow
+280,280,noun.food,asparagus
+282,282,noun.food,chilies
+285,285,noun.food,tomatoes
+290,290,noun.time,summer
+291,291,verb.change,came
+294,294,noun.location,end
+298,298,noun.time,day
+300,300,noun.group,school
+301,301,verb.motion,neared
+303,304,noun.person,Aunt Soledad
+305,305,verb.motion,drove
+306,306,noun.person,Sylvia
+309,309,noun.person,brothers
+312,312,noun.person,cousins
+314,314,noun.person,Alice
+316,316,noun.person,Virginia
+321,322,noun.group,public school
+324,325,noun.location,17th Street
+329,329,verb.social,enroll
+331,331,noun.person,Sylvia
+335,335,verb.motion,enter
+337,337,noun.group,grade
+339,339,noun.person,Gonzalo
+343,343,verb.motion,enter
+347,347,noun.person,Jerome
+353,353,noun.artifact,building
+355,355,verb.cognition,thought
+356,356,noun.person,Sylvia
+359,359,verb.motion,pulled
+362,363,noun.location,parking lot
+365,365,noun.plant,Tall
+366,366,noun.plant,trees
+367,367,verb.stative,lined
+369,369,noun.artifact,street
+374,374,noun.artifact,school
+379,379,noun.artifact,playground
+381,381,noun.animal,monkey
+382,382,noun.artifact,bars
+386,386,noun.artifact,swing
+390,390,verb.motion,walked
+393,393,noun.artifact,school
+396,396,verb.perception,noticed
+399,399,noun.artifact,hallways
+400,400,verb.stative,were
+412,412,verb.social,enroll
+414,414,noun.person,children
+418,418,verb.communication,said
+419,420,noun.person,Aunt Soledad
+423,424,verb.motion,arrived at
+426,426,noun.person,principal
+428,428,noun.artifact,office
+431,431,noun.person,secretary
+432,432,verb.possession,gave
+433,434,noun.person,Aunt Soledad
+436,436,noun.act,enrollment
+437,437,noun.communication,forms
+441,441,noun.person,Alice
+445,445,noun.location,Virginia
+451,451,verb.possession,give
+453,453,noun.act,enrollment
+454,454,noun.communication,forms
+456,456,noun.person,Sylvia
+459,459,noun.person,brothers
+465,465,verb.stative,attend
+467,467,noun.group,school
+470,470,verb.communication,said
+472,472,noun.person,secretary
+477,478,verb.motion,go to
+481,481,noun.group,school
+489,490,verb.motion,go to
+493,493,noun.artifact,school
+495,495,noun.person,Sylvia
+496,496,verb.cognition,wondered
+499,499,verb.stative,was
+504,504,verb.stative,was
+508,508,verb.communication,spoke
+510,510,noun.communication,English
+513,513,noun.person,father
+514,514,verb.stative,was
+516,516,noun.location,Mexico
+521,521,verb.change,become
+523,523,noun.group,U.S.
+524,524,noun.person,citizen
+527,527,noun.person,mother
+528,528,verb.stative,was
+530,531,noun.location,Puerto Rico
+534,534,verb.stative,was
+536,536,noun.group,U.S.
+537,537,noun.possession,territory
+539,540,noun.person,Aunt Soledad
+541,541,verb.stative,was
+548,548,verb.stative,live
+551,551,noun.location,part
+553,553,noun.location,town
+556,556,noun.person,Sylvia
+557,557,verb.perception,looked
+560,560,noun.person,cousins
+563,563,verb.stative,had
+565,565,noun.body,skin
+569,569,noun.body,hair
+574,574,noun.communication,name
+575,575,verb.stative,was
+576,576,noun.person,Vidaurri
+579,579,noun.person,father
+580,580,verb.stative,was
+586,586,noun.attribute,descent
+590,590,verb.perception,looked
+593,593,noun.person,brothers
+599,599,noun.body,hands
+602,602,noun.body,arms
+605,605,verb.cognition,wondered
+611,611,verb.stative,have
+613,613,noun.attribute,skin
+617,617,noun.body,hair
+620,621,noun.communication,last name
+622,622,verb.stative,is
+623,623,noun.person,Mendez
+626,626,noun.act,Rules
+627,627,verb.stative,are
+628,628,noun.cognition,rules
+631,631,verb.communication,said
+633,633,noun.person,secretary
+637,637,noun.person,Mendez
+638,638,noun.person,children
+641,642,verb.motion,go to
+645,645,noun.group,school
+653,653,verb.social,enrolling
+661,661,verb.communication,said
+662,663,noun.person,Aunt Soledad
+667,667,verb.motion,stormed
+671,671,noun.artifact,office
+673,673,verb.possession,taking
+674,674,noun.person,Sylvia
+678,678,noun.person,children
+684,684,verb.motion,arrived
+687,688,noun.person,Aunt Soledad
+689,689,verb.communication,told
+690,690,noun.person,Sylvias
+691,691,noun.person,father
+694,694,verb.change,happened
+696,697,noun.person,Mr. Mendez
+698,698,verb.communication,told
+702,702,verb.emotion,worry
+707,707,verb.stative,be
+709,709,noun.act,mistake
+713,714,verb.social,take care
+719,719,verb.stative,was
+721,721,noun.person,businessman
+728,729,verb.social,dealing with
+730,730,noun.group,people
+734,734,noun.time,day
+736,737,noun.person,Mr. Mendez
+738,738,verb.social,met
+740,741,noun.person,Mr. Harris
+744,744,noun.person,superintendent
+747,748,noun.group,Westminster school
+750,751,noun.person,Mr. Mendez
+752,752,verb.communication,explained
+755,755,noun.group,family
+758,758,verb.motion,moved
+762,762,noun.artifact,farm
+766,767,noun.group,public school
+769,770,noun.location,17th Street
+771,771,verb.stative,is
+774,774,noun.group,school
+777,777,noun.artifact,house
+781,781,noun.person,children
+783,783,verb.stative,attend
+789,789,noun.person,children
+792,793,verb.motion,go to
+796,796,noun.group,school
+799,799,verb.communication,said
+800,801,noun.person,Mr. Harris
+809,809,verb.communication,asked
+810,811,noun.person,Mr. Mendez
+816,816,verb.communication,given
+818,818,noun.communication,answer
+824,824,verb.stative,is
+828,828,verb.social,done
+834,834,noun.time,days
+836,837,noun.person,Mr. Mendez
+838,838,verb.social,met
+840,841,noun.person,Mr. Atkinson
+844,844,noun.location,county
+845,845,noun.person,superintendent
+847,848,noun.person,Mr. Harris
+856,857,noun.group,school board
+860,860,verb.social,oversaw
+864,864,noun.group,schools
+866,867,noun.location,Orange County
+872,872,verb.communication,said
+875,875,noun.communication,thing
+879,879,noun.person,children
+882,883,verb.motion,go to
+886,886,noun.artifact,school
+894,895,noun.person,Mr. Mendez
+896,896,verb.stative,kept
+897,897,verb.communication,asking
+902,902,verb.communication,give
+906,906,noun.communication,answer
+909,909,noun.time,fall
+911,911,noun.person,Sylvia
+914,914,noun.person,brothers
+917,917,verb.stative,attend
+918,919,noun.group,Hoover Elementary
+927,927,noun.artifact,school
+931,932,noun.location,Olive Street
+935,935,noun.location,city
+937,937,noun.location,Westminster
+940,940,noun.artifact,building
+941,941,verb.stative,was
+943,943,noun.substance,clapboard
+944,944,noun.artifact,shack
+948,948,noun.artifact,halls
+949,949,verb.stative,were
+956,956,noun.animal,cow
+957,957,noun.artifact,pasture
+958,958,verb.stative,surrounded
+960,960,noun.artifact,school
+963,963,noun.person,students
+966,966,verb.consumption,eat
+968,968,noun.food,lunch
+972,972,noun.animal,flies
+974,974,verb.motion,land
+977,977,noun.food,food
+982,983,noun.artifact,electric wire
+985,985,verb.stative,surrounded
+987,987,noun.location,pasture
+989,989,verb.stative,keep
+991,991,noun.animal,cows
+996,996,verb.contact,touched
+1000,1000,verb.perception,received
+1002,1002,noun.event,shock
+1005,1005,noun.artifact,school
+1008,1008,verb.stative,have
+1010,1010,noun.artifact,playground
+1015,1015,noun.artifact,swing
+1018,1018,noun.person,Mendez
+1019,1019,noun.group,family
+1022,1023,verb.competition,give up
+1030,1030,noun.person,Sylvia
+1031,1031,verb.perception,heard
+1033,1033,noun.person,father
+1034,1034,verb.communication,talk
+1036,1036,noun.person,coworkers
+1038,1038,noun.person,friends
+1042,1042,noun.person,parents
+1051,1051,noun.person,kids
+1054,1055,verb.stative,go to
+1058,1058,noun.group,school
+1062,1062,verb.communication,said
+1070,1070,noun.artifact,building
+1074,1074,noun.state,problem
+1077,1077,noun.person,teachers
+1080,1080,noun.group,school
+1083,1083,verb.emotion,care
+1086,1086,noun.person,children
+1088,1088,noun.act,education
+1091,1091,verb.cognition,expect
+1094,1095,verb.social,drop out
+1099,1099,noun.group,grade
+1104,1104,noun.person,children
+1105,1105,verb.social,succeed
+1107,1107,verb.stative,become
+1108,1108,noun.person,doctors
+1110,1110,noun.person,lawyers
+1113,1113,noun.person,teachers
+1116,1117,noun.person,Mr. Mendez
+1118,1118,verb.creation,created
+1120,1120,noun.group,group
+1123,1123,noun.person,Parents
+1130,1130,noun.person,Children
+1133,1133,verb.social,tried
+1135,1135,verb.contact,collect
+1136,1136,noun.communication,signatures
+1139,1139,noun.communication,petition
+1141,1141,verb.social,integrate
+1142,1142,noun.group,schools
+1146,1146,noun.person,children
+1151,1151,noun.animal,skin
+1152,1152,noun.attribute,color
+1154,1154,noun.attribute,background
+1157,1157,verb.possession,have
+1160,1160,noun.state,opportunities
+1164,1164,noun.event,time
+1166,1166,verb.communication,asked
+1169,1169,verb.communication,sign
+1171,1171,noun.communication,petition
+1175,1175,verb.possession,get
+1178,1178,noun.communication,answer
+1183,1183,noun.communication,problemas
+1190,1190,verb.emotion,want
+1192,1192,noun.state,problems
+1198,1198,noun.person,parents
+1199,1199,verb.social,worked
+1201,1201,noun.artifact,farms
+1202,1202,verb.possession,owned
+1205,1205,noun.group,families
+1207,1207,verb.emotion,feared
+1210,1210,verb.possession,lose
+1212,1212,noun.act,jobs
+1215,1215,verb.social,supported
+1217,1217,noun.communication,petition
+1220,1220,noun.time,day
+1223,1223,noun.artifact,truck
+1224,1224,noun.person,driver
+1225,1225,verb.perception,overheard
+1226,1227,noun.person,Mr. Mendez
+1228,1228,verb.social,trying
+1230,1230,verb.communication,convince
+1232,1232,noun.person,worker
+1234,1234,verb.communication,sign
+1236,1236,noun.communication,petition
+1240,1240,verb.cognition,know
+1243,1243,verb.communication,said
+1245,1245,noun.artifact,truck
+1246,1246,noun.person,driver
+1251,1251,verb.communication,file
+1253,1253,noun.communication,lawsuit
+1257,1258,noun.person,truck driver
+1259,1259,verb.communication,told
+1260,1261,noun.person,Mr. Mendez
+1264,1264,noun.person,lawyer
+1265,1265,verb.communication,named
+1266,1267,noun.person,David Marcus
+1271,1271,verb.communication,filed
+1273,1273,noun.act,lawsuit
+1275,1275,noun.act,behalf
+1277,1277,noun.group,people
+1279,1280,noun.location,San Bernardino
+1283,1283,verb.social,helped
+1285,1285,verb.change,integrate
+1288,1288,noun.artifact,pools
+1293,1293,noun.time,time
+1298,1298,noun.group,schools
+1304,1304,noun.location,places
+1310,1310,noun.artifact,pools
+1312,1312,noun.artifact,parks
+1315,1316,noun.artifact,movie theaters
+1319,1319,noun.group,businesses
+1321,1321,verb.possession,had
+1322,1322,noun.communication,signs
+1324,1324,verb.communication,read
+1332,1333,noun.person,Mr. Mendez
+1334,1334,verb.cognition,decided
+1340,1340,verb.social,hire
+1341,1342,noun.person,Mr. Marcus
+1347,1347,verb.stative,meant
+1350,1350,verb.possession,spend
+1354,1354,noun.possession,savings
+1369,1369,noun.time,months
+1371,1372,noun.person,Mr. Mendez
+1374,1375,noun.person,Mr. Marcus
+1376,1376,verb.motion,traveled
+1379,1380,noun.location,Orange County
+1381,1382,verb.communication,looking for
+1383,1383,noun.group,people
+1386,1386,verb.perception,experienced
+1388,1388,noun.state,problems
+1390,1390,noun.person,Sylvia
+1391,1391,verb.social,watched
+1393,1393,noun.person,father
+1394,1394,verb.motion,leave
+1398,1398,noun.time,morning
+1402,1402,verb.perception,saw
+1404,1405,verb.motion,come home
+1408,1408,noun.time,evening
+1414,1414,verb.perception,heard
+1416,1416,noun.communication,footsteps
+1419,1420,verb.motion,got in
+1423,1423,noun.time,night
+1427,1427,verb.stative,was
+1430,1430,noun.person,Sylvias
+1431,1431,noun.person,mother
+1434,1435,verb.social,take care
+1438,1438,noun.artifact,farm
+1440,1441,noun.person,Mrs. Mendez
+1443,1443,verb.possession,get
+1444,1444,noun.person,Sylvia
+1447,1447,noun.person,brothers
+1450,1450,noun.group,school
+1456,1457,verb.motion,go out
+1460,1460,noun.location,fields
+1463,1463,verb.creation,started
+1465,1466,noun.artifact,irrigation system
+1468,1468,verb.contact,drove
+1470,1470,noun.artifact,tractor
+1472,1472,verb.social,oversaw
+1474,1474,noun.person,workers
+1477,1477,verb.cognition,solved
+1479,1479,noun.state,problems
+1481,1481,verb.change,arose
+1485,1485,noun.act,help
+1487,1488,noun.person,Mr. Marcus
+1490,1491,noun.person,Mr. Mendez
+1492,1492,verb.possession,found
+1494,1494,verb.communication,talked
+1497,1497,noun.group,families
+1500,1501,verb.social,dealing with
+1502,1502,noun.act,segregation
+1507,1507,verb.stative,was
+1509,1509,noun.person,Estrada
+1510,1510,noun.group,family
+1512,1513,noun.person,Mr. Estrada
+1515,1515,verb.competition,fought
+1523,1523,verb.social,risked
+1525,1525,noun.time,life
+1528,1528,noun.person,Americans
+1531,1531,noun.group,races
+1533,1533,noun.location,backgrounds
+1538,1538,verb.motion,returned
+1540,1540,noun.location,America
+1543,1543,noun.act,war
+1546,1547,verb.communication,found out
+1550,1550,noun.person,children
+1553,1553,verb.social,allowed
+1555,1555,verb.stative,attend
+1556,1556,noun.group,school
+1559,1559,noun.person,children
+1567,1567,verb.communication,said
+1568,1569,noun.person,Mr. Mendez
+1575,1575,noun.act,injustice
+1578,1579,noun.person,Mr. Marcus
+1580,1580,verb.emotion,wanted
+1582,1582,verb.communication,show
+1585,1585,noun.state,segregation
+1587,1587,noun.person,students
+1588,1588,verb.change,affected
+1591,1591,noun.person,Sylvia
+1594,1594,noun.person,brothers
+1600,1600,noun.person,children
+1603,1604,noun.group,public school
+1605,1605,noun.communication,item
+1608,1609,noun.location,Orange County
+1612,1612,noun.time,March
+1615,1616,noun.person,Mr. Marcus
+1617,1618,verb.motion,went to
+1620,1620,noun.artifact,courthouse
+1622,1622,verb.communication,filed
+1624,1624,noun.communication,lawsuit
+1626,1626,noun.person,Estrada
+1627,1627,noun.group,family
+1628,1628,verb.social,joined
+1630,1630,noun.person,Mendez
+1631,1631,noun.act,case
+1638,1638,noun.group,families
+1641,1641,noun.group,families
+1642,1642,verb.stative,were
+1646,1646,noun.artifact,school
+1647,1647,noun.location,districts
+1649,1650,noun.location,Orange County
+1652,1652,noun.location,Westminster
+1655,1655,noun.person,Sylvia
+1656,1656,verb.stative,lived
+1659,1660,noun.location,Garden Grove
+1662,1663,noun.location,El Modena
+1666,1667,noun.location,Santa Ana
+1670,1670,noun.act,trial
+1672,1672,verb.creation,held
+1675,1675,noun.artifact,courthouse
+1677,1678,noun.location,Los Angeles
+1680,1680,noun.person,Sylvia
+1683,1683,noun.group,family
+1684,1685,verb.body,dressed in
+1688,1688,noun.artifact,clothes
+1690,1690,verb.contact,sat
+1693,1693,noun.artifact,courtroom
+1695,1695,verb.perception,listen
+1698,1698,noun.act,hearing
+1699,1699,verb.stative,lasted
+1701,1701,noun.time,days
+1704,1704,noun.time,day
+1706,1707,noun.person,Mr. Marcus
+1708,1708,verb.communication,called
+1711,1712,noun.person,stand parents
+1716,1716,noun.location,districts
+1718,1719,noun.location,Orange County
+1723,1723,noun.person,superintendents
+1726,1726,noun.location,district
+1732,1732,noun.time,day
+1734,1735,noun.person,Mr. Kent
+1738,1738,noun.person,superintendent
+1741,1742,noun.location,Garden Grove
+1743,1743,noun.location,district
+1745,1745,verb.communication,questioned
+1748,1748,verb.communication,said
+1751,1751,verb.motion,sent
+1752,1752,noun.person,children
+1756,1756,noun.group,school
+1758,1758,verb.social,help
+1760,1760,verb.change,improve
+1762,1762,noun.communication,English
+1765,1765,verb.stative,is
+1767,1767,noun.communication,lie
+1769,1769,verb.cognition,thought
+1770,1770,noun.person,Sylvia
+1773,1773,noun.communication,English
+1774,1774,verb.stative,was
+1779,1779,noun.communication,English
+1784,1784,noun.person,children
+1787,1787,noun.group,Westminster
+1788,1788,noun.artifact,school
+1793,1793,verb.communication,give
+1795,1795,noun.person,children
+1797,1797,noun.communication,tests
+1800,1800,verb.communication,asked
+1801,1802,noun.person,Mr. Marcus
+1804,1805,noun.person,Mr. Kent
+1806,1806,verb.communication,claimed
+1815,1815,verb.communication,talking
+1821,1821,verb.stative,is
+1823,1823,noun.communication,lie
+1825,1825,noun.person,Sylvia
+1826,1826,verb.emotion,wanted
+1828,1828,verb.communication,yell
+1833,1833,verb.communication,questioned
+1837,1837,verb.possession,rejected
+1841,1842,noun.group,Westminster school
+1844,1844,verb.communication,asking
+1847,1847,noun.communication,thing
+1853,1853,noun.communication,reasons
+1856,1856,verb.motion,send
+1857,1857,noun.person,children
+1860,1861,noun.group,Mexican school
+1864,1864,verb.communication,asked
+1865,1866,noun.person,Mr. Marcus
+1868,1868,noun.person,Sylvia
+1871,1871,noun.group,family
+1872,1872,verb.competition,braced
+1875,1875,verb.perception,hear
+1877,1878,noun.person,Mr. Kent
+1880,1880,verb.communication,say
+1887,1887,noun.act,behavior
+1892,1892,verb.cognition,learn
+1893,1893,noun.state,cleanliness
+1895,1895,noun.cognition,mind
+1897,1897,noun.attribute,manner
+1900,1900,noun.artifact,dress
+1905,1905,verb.cognition,learning
+1911,1911,verb.possession,have
+1912,1912,noun.state,problems
+1914,1914,noun.substance,lice
+1916,1916,noun.act,impetigo
+1919,1919,noun.state,tuberculosis
+1922,1922,verb.stative,have
+1925,1925,noun.body,hands
+1927,1927,noun.body,face
+1929,1929,noun.body,neck
+1932,1932,noun.body,ears
+1935,1935,noun.person,Mendez
+1936,1936,noun.group,family
+1941,1941,noun.artifact,room
+1942,1942,verb.perception,stared
+1944,1945,noun.person,Mr. Kent
+1947,1947,noun.state,disbelief
+1952,1952,verb.communication,saying
+1953,1953,verb.stative,was
+1958,1958,verb.stative,was
+1971,1971,noun.person,children
+1974,1975,noun.group,Mexican school
+1976,1976,verb.stative,are
+1979,1979,noun.person,whites
+1982,1982,noun.state,hygiene
+1985,1985,verb.communication,asked
+1986,1987,noun.person,Mr. Marcus
+1994,1994,noun.attribute,ability
+2001,2001,noun.cognition,respects
+2011,2011,noun.cognition,outlook
+2015,2015,noun.artifact,clothing
+2020,2020,noun.attribute,ability
+2022,2023,verb.social,take part
+2026,2026,noun.act,activities
+2029,2029,noun.group,school
+2035,2035,verb.cognition,believe
+2038,2038,noun.person,students
+2039,2039,verb.stative,are
+2042,2042,noun.person,Mexicans
+2045,2045,noun.communication,respects
+2049,2049,verb.communication,mentioned
+2055,2055,verb.communication,th
+2060,2060,noun.motive,reasons
+2064,2064,verb.social,segregated
+2071,2072,noun.person,Mr. Mendez
+2074,2074,verb.communication,asked
+2081,2081,noun.person,children
+2082,2082,verb.stative,attend
+2084,2085,noun.group,Westminster school
+2090,2090,verb.possession,had
+2092,2092,noun.communication,answer
+2097,2097,noun.time,day
+2099,2100,noun.person,Mr. Marcus
+2101,2101,verb.communication,called
+2104,2104,noun.location,stand
+2108,2108,noun.time,year
+2111,2111,noun.person,student
+2114,2115,noun.group,Mexican school
+2117,2118,noun.location,El Modena
+2121,2121,noun.communication,name
+2122,2122,verb.stative,was
+2123,2124,noun.person,Carol Torres
+2127,2127,verb.communication,spoke
+2129,2129,noun.communication,English
+2132,2132,verb.stative,was
+2139,2139,verb.motion,sent
+2143,2143,noun.group,school
+2146,2146,verb.possession,had
+2147,2147,noun.state,problems
+2148,2148,verb.communication,speaking
+2150,2150,noun.communication,language
+2154,2155,noun.person,defense lawyers
+2156,2156,verb.communication,claimed
+2158,2158,noun.person,Mr.
+2160,2161,noun.person,Mrs. Mendez
+2163,2163,verb.communication,questioned
+2169,2169,noun.time,day
+2173,2173,verb.stative,was
+2174,2175,noun.person,Mr. Harris
+2178,2178,noun.person,superintendent
+2181,2182,noun.group,Westminster school
+2184,2184,noun.person,Sylvia
+2187,2187,verb.communication,called
+2190,2190,noun.artifact,stand
+2194,2194,verb.stative,was
+2197,2197,verb.communication,testify
+2200,2200,verb.communication,asked
+2205,2205,verb.social,tried
+2207,2207,verb.perception,looking
+2211,2211,noun.time,morning
+2215,2215,verb.social,practiced
+2219,2219,verb.communication,answer
+2226,2226,noun.time,day
+2229,2229,noun.act,hearing
+2231,2232,noun.person,Mr. Marcus
+2233,2233,verb.communication,called
+2236,2236,noun.artifact,stand
+2238,2238,noun.act,education
+2239,2239,noun.person,specialists
+2241,2241,verb.communication,explain
+2244,2244,verb.stative,was
+2247,2247,verb.social,segregate
+2248,2248,noun.person,children
+2251,2251,noun.group,schools
+2254,2254,noun.location,Segregation
+2255,2255,verb.stative,tends
+2257,2257,verb.creation,give
+2259,2259,noun.state,aura
+2261,2261,noun.state,inferiority
+2266,2266,verb.change,have
+2268,2268,noun.group,people
+2271,2272,noun.group,United States
+2273,2273,verb.cognition,understand
+2277,2277,verb.stative,is
+2282,2282,verb.stative,live
+2287,2288,noun.group,public school
+2289,2289,verb.stative,is
+2292,2292,noun.act,mechanism
+2296,2296,noun.person,children
+2300,2300,noun.group,people
+2301,2301,verb.motion,go
+2304,2304,verb.communication,said
+2310,2310,noun.person,judge
+2311,2311,verb.body,nodded
+2313,2313,noun.body,head
+2316,2316,verb.perception,seemed
+2318,2318,verb.communication,agree
+2323,2325,noun.person,Judge Paul McCormick
+2326,2326,verb.possession,took
+2329,2329,noun.time,year
+2331,2331,verb.communication,give
+2333,2333,noun.act,decision
+2343,2343,verb.cognition,ruled
+2345,2345,noun.act,favor
+2348,2348,noun.person,Mendez
+2349,2349,noun.group,family
+2353,2353,noun.act,ruling
+2356,2356,verb.communication,said
+2360,2360,noun.act,education
+2362,2362,verb.stative,be
+2366,2366,noun.person,children
+2369,2369,noun.group,school
+2370,2370,noun.group,association
+2373,2373,noun.group,lineage
+2377,2377,verb.stative,meant
+2382,2382,verb.social,allowed
+2384,2384,verb.stative,attend
+2385,2385,noun.group,school
+2393,2393,noun.group,race
+2395,2395,noun.attribute,background
+2398,2398,noun.person,Mendez
+2399,2399,noun.event,victory
+2400,2400,verb.change,made
+2401,2401,noun.communication,newspaper
+2402,2402,noun.communication,headlines
+2404,2404,noun.person,Sylvia
+2406,2406,noun.group,family
+2407,2407,verb.stative,was
+2414,2414,verb.possession,have
+2416,2416,noun.time,time
+2418,2418,verb.social,celebrate
+2421,2422,noun.group,school board
+2423,2423,verb.communication,appealed
+2425,2425,noun.act,decision
+2431,2432,verb.communication,asked forjudges
+2435,2435,noun.attribute,authority
+2437,2437,verb.cognition,review
+2439,2439,noun.act,case
+2441,2441,verb.change,change
+2443,2443,noun.event,result
+2446,2446,noun.act,case
+2448,2448,verb.communication,reviewed
+2451,2453,noun.group,Court of Appeals
+2455,2456,noun.location,San Francisco
+2460,2460,noun.communication,appeal
+2463,2463,noun.person,Mendez
+2464,2464,noun.group,family
+2465,2465,verb.possession,received
+2466,2466,noun.act,support
+2469,2474,noun.group,League of United Latin American Citizens
+2477,2481,noun.group,National Association for the Advancement
+2483,2484,noun.group,Colored People
+2487,2490,noun.group,Japanese American Citizens League
+2493,2495,noun.group,American Jewish Congress
+2499,2499,noun.group,organizations
+2502,2502,noun.group,groups
+2503,2503,verb.communication,sent
+2504,2504,noun.communication,letters
+2506,2506,noun.communication,information
+2510,2510,noun.act,case
+2512,2512,verb.communication,asked
+2514,2514,noun.person,judge
+2516,2517,verb.social,rule in
+2518,2518,noun.act,favor
+2521,2521,noun.person,Mendez
+2522,2522,noun.group,family
+2524,2524,noun.person,Sylvia
+2525,2525,verb.stative,was
+2528,2528,noun.group,people
+2531,2531,noun.state,backgrounds
+2535,2535,noun.location,parts
+2538,2538,noun.location,country
+2542,2542,verb.motion,met
+2544,2544,noun.group,family
+2546,2546,verb.change,getting
+2550,2550,noun.act,case
+2552,2552,verb.social,trying
+2554,2554,verb.social,help
+2559,2559,noun.person,mother
+2560,2560,verb.communication,said
+2579,2579,verb.competition,fight
+2581,2581,noun.attribute,justice
+2585,2585,verb.motion,follow
+2589,2589,noun.time,April
+2593,2593,noun.person,judges
+2596,2598,noun.group,Court of Appeals
+2600,2601,noun.location,San Francisco
+2602,2602,verb.communication,ruled
+2607,2607,noun.person,Mendez
+2608,2608,noun.group,family
+2612,2612,noun.time,June
+2614,2616,noun.person,Governor Earl Warren
+2617,2617,verb.communication,signed
+2619,2619,noun.communication,law
+2621,2621,verb.communication,said
+2624,2624,noun.person,children
+2626,2626,noun.location,California
+2628,2628,verb.social,allowed
+2630,2631,verb.stative,go to
+2632,2632,noun.group,school
+2637,2637,noun.group,race
+2639,2639,noun.attribute,ethnicity
+2642,2642,noun.communication,language
+2647,2647,verb.cognition,remember
+2650,2650,verb.communication,said
+2651,2651,noun.person,Sylvias
+2652,2652,noun.person,mother
+2656,2656,verb.social,fought
+2658,2658,verb.change,make
+2662,2662,verb.stative,attend
+2665,2665,noun.group,school
+2667,2667,verb.possession,have
+2669,2669,noun.state,opportunities
+2672,2672,noun.person,Sylvia
+2673,2673,verb.cognition,thought
+2680,2680,noun.person,mother
+2681,2681,verb.communication,said
+2685,2685,noun.time,day
+2688,2688,verb.motion,returned
+2691,2692,noun.group,Westminster school
+2695,2695,noun.event,time
+2699,2699,verb.perception,listen
+2702,2702,noun.communication,whispers
+2705,2705,verb.communication,ignored
+2707,2707,noun.person,children
+2709,2709,verb.communication,pointed
+2713,2713,verb.communication,called
+2715,2715,noun.communication,names
+2720,2720,verb.body,held
+2722,2722,noun.body,head
+2726,2726,noun.person,parents
+2728,2728,verb.competition,fought
+2735,2735,noun.person,brothers
+2740,2740,noun.person,classmates
+2742,2742,verb.perception,Looking
+2746,2746,verb.perception,saw
+2749,2749,noun.person,children
+2751,2751,verb.body,smiling
+2757,2757,noun.time,end
+2760,2760,noun.time,day
+2764,2764,verb.social,made
+2766,2766,noun.person,friend
+2771,2771,noun.time,end
+2774,2775,noun.time,school year
+2779,2779,verb.social,made
+2781,2781,noun.person,friends
+2784,2784,noun.state,backgrounds
+2787,2787,verb.cognition,knew
+2790,2790,noun.group,family
+2792,2792,verb.competition,fought
+2803,2803,noun.act,segregation
+2806,2806,noun.group,race
+2809,2809,noun.location,origin
+2810,2810,verb.stative,was
+2814,2815,noun.location,United States
+2820,2822,noun.location,Westminster School District
+2823,2823,noun.act,case
+2824,2824,verb.change,paved
+2826,2826,noun.act,way
+2829,2829,noun.act,desegregation
+2831,2831,noun.group,schools
+2833,2833,noun.location,America
+2838,2838,noun.communication,lawsuit
+2841,2841,noun.communication,suits
+2843,2843,verb.communication,filed
+2845,2845,verb.possession,won
+2847,2847,noun.location,Texas
+2849,2849,noun.location,Arizona
+2855,2855,noun.time,years
+2858,2858,noun.person,Mendez
+2859,2859,noun.event,victory
+2863,2863,noun.act,case
+2864,2868,noun.group,Brown v. Board of Education
+2869,2869,verb.social,desegregated
+2870,2870,noun.group,schools
+2874,2874,noun.location,country
+2877,2877,noun.group,people
+2879,2879,verb.social,played
+2881,2881,noun.act,roles
+2884,2884,noun.person,Brown
+2885,2885,noun.act,case
+2892,2892,noun.person,Mendez
+2893,2893,noun.act,case
+2895,2896,noun.person,Thurgood Marshall
+2898,2899,noun.person,Earl Warren
+2903,2903,noun.person,member
+2906,2907,noun.group,National Association
+2912,2913,noun.group,Colored People
+2915,2915,noun.person,Marshall
+2917,2917,verb.communication,sent
+2918,2918,noun.person,friend
+2924,2924,noun.group,court
+2925,2925,noun.communication,briefs
+2928,2928,noun.person,judge
+2931,2931,noun.person,Mendez
+2932,2932,noun.act,case
+2936,2936,noun.communication,letters
+2938,2938,verb.communication,argued
+2940,2940,noun.state,segregation
+2944,2944,verb.consumption,used
+2949,2949,noun.communication,arguments
+2952,2952,verb.stative,became
+2954,2954,noun.person,lawyer
+2957,2957,noun.person,Brown
+2958,2958,noun.act,case
+2960,2961,noun.person,Earl Warren
+2962,2962,verb.stative,was
+2964,2964,noun.person,governor
+2966,2966,verb.communication,signed
+2968,2968,noun.communication,law
+2970,2970,noun.act,desegregation
+2972,2972,noun.group,schools
+2974,2974,noun.location,California
+2977,2977,noun.person,Mendez
+2978,2978,noun.event,victory
+2982,2982,verb.stative,became
+2984,2985,noun.person,chief justice
+2988,2991,noun.group,U. S. Supreme Court
+2994,2994,verb.social,presided
+2998,2998,noun.act,case
+3000,3000,verb.communication,ruled
+3002,3002,noun.person,Brown
+3004,3004,noun.attribute,favor
+3006,3006,noun.person,Sylvia
+3013,3013,noun.person,brothers
+3014,3014,verb.stative,attended
+3016,3016,noun.group,Westminster
+3017,3017,noun.group,school
+3020,3020,noun.group,family
+3021,3022,verb.motion,moved back
+3024,3025,noun.location,Santa Ana
+3027,3027,noun.person,Sylvia
+3028,3028,verb.social,graduated
+3031,3031,verb.social,integrated
+3032,3033,noun.group,high school
+3035,3035,verb.stative,attended
+3036,3038,noun.group,California State University
+3042,3042,verb.cognition,studied
+3044,3044,verb.change,become
+3046,3046,verb.social,registered
+3047,3047,noun.person,nurse
+3050,3050,verb.social,worked
+3055,3055,noun.time,years
+3058,3059,noun.artifact,medical center
+3061,3062,noun.location,Los Angeles
+3065,3065,verb.stative,retired
+3067,3068,verb.social,take care
+3072,3072,noun.person,mother
+3074,3074,noun.person,Sylvia
+3075,3075,verb.cognition,remembers
+3078,3078,noun.person,Felicitas
+3079,3080,verb.change,passed away
+3083,3083,verb.emotion,regretted
+3085,3085,noun.cognition,fact
+3089,3089,noun.group,people
+3090,3090,verb.cognition,knew
+3093,3093,noun.person,Mendez
+3094,3094,noun.act,case
+3097,3097,noun.group,family
+3099,3099,noun.act,fight
+3101,3101,noun.attribute,equality
+3106,3107,noun.act,Mendez case
+3110,3110,verb.communication,taught
+3112,3112,noun.group,schools
+3115,3119,noun.group,Brown v. Board of Education
+3122,3122,verb.stative,is
+3126,3128,noun.person,Mendez v. Westminster
+3130,3130,verb.cognition,known
+3133,3133,noun.person,Americans
+3136,3136,noun.time,day
+3140,3140,noun.person,mother
+3141,3141,verb.change,died
+3143,3143,noun.person,Sylvia
+3144,3144,verb.change,made
+3147,3147,noun.act,mission
+3149,3149,verb.social,educate
+3150,3150,noun.group,people
+3153,3153,noun.group,family
+3155,3155,noun.act,fight
+3157,3157,noun.act,desegregation
+3161,3161,noun.time,decades
+3164,3164,noun.person,Mendez
+3165,3165,noun.event,case
+3168,3168,verb.change,begun
+3170,3170,verb.perception,receive
+3172,3172,noun.cognition,attention
+3174,3174,noun.state,recognition
+3176,3176,noun.communication,Documentaries
+3179,3179,verb.social,made
+3184,3184,noun.communication,books
+3186,3186,noun.communication,articles
+3189,3189,verb.creation,written
+3197,3198,noun.group,public school
+3200,3201,noun.location,Santa Ana
+3203,3203,verb.communication,named
+3205,3205,noun.person,Felicitas
+3208,3208,verb.possession,issued
+3211,3213,noun.group,U.S. Postal Service
+3215,3215,verb.stative,celebrate
+3218,3218,noun.time,anniversary
+3221,3221,noun.person,Mendez
+3222,3222,noun.event,victory
+3228,3229,noun.artifact,high school
+3231,3232,noun.location,Los Angeles
+3234,3234,verb.communication,named
+3247,3248,noun.person,Sylvia Mendez
+3249,3249,verb.possession,received
+3257,3258,noun.person,Barack Obama
+3261,3261,verb.stative,is
+3265,3265,noun.act,award
+3267,3267,noun.person,person
+3269,3269,verb.possession,receive
+3271,3271,noun.location,America
+3276,3276,noun.act,efforts
+3279,3279,noun.group,people
+3282,3282,noun.person,Mendez
+3283,3283,noun.group,family
+3286,3286,noun.act,segregation
+3288,3289,noun.artifact,public schools
+3290,3290,verb.stative,is
+3294,3295,noun.location,United States
+3300,3301,noun.quantity,great deal
+3303,3303,noun.state,inequality
+3307,3307,noun.cognition,kind
+3310,3310,noun.act,segregation
+3313,3313,verb.stative,exists
+3314,3314,noun.time,today
+3320,3320,noun.communication,study
+3323,3325,noun.group,Civil Rights Project
+3328,3330,noun.location,University of California
+3332,3333,noun.location,Los Angeles
+3337,3338,noun.location,United States
+3339,3339,noun.state,segregation
+3341,3341,verb.change,increased
+3345,3345,noun.time,years
+3348,3348,verb.communication,reported
+3351,3351,noun.relation,percent
+3354,3354,noun.person,students
+3357,3357,noun.relation,percent
+3359,3359,noun.person,black
+3360,3360,noun.person,students
+3361,3361,verb.stative,attend
+3362,3362,noun.group,schools
+3367,3367,noun.relation,percent
+3370,3370,noun.person,classmates
+3371,3371,verb.stative,are
+3375,3375,noun.communication,study
+3378,3378,verb.cognition,analyzes
+3379,3379,noun.group,data
+3382,3384,noun.group,Department of Education
+3387,3387,verb.communication,reveals
+3391,3391,noun.person,black
+3392,3392,noun.person,children
+3393,3393,verb.stative,are
+3398,3398,verb.stative,be
+3400,3400,noun.group,school
+3403,3403,noun.attribute,majority
+3405,3405,noun.person,students
+3406,3406,verb.stative,are
+3412,3412,noun.artifact,schools
+3413,3413,verb.stative,are
+3416,3416,verb.possession,have
+3418,3418,noun.attribute,resources
+3422,3422,noun.person,teachers
+3428,3428,verb.perception,see
+3430,3430,noun.attribute,inequality
+3433,3433,verb.social,visit
+3434,3434,noun.group,schools
+3437,3437,noun.location,parts
+3440,3440,noun.location,country
+3442,3442,verb.cognition,read
+3445,3446,verb.communication,talk about
+3448,3448,noun.communication,books
+3451,3451,noun.person,Mendez
+3452,3452,noun.group,family
+3453,3454,verb.motion,went to
+3455,3455,noun.artifact,court
+3458,3458,noun.time,years
+3463,3463,noun.act,fight
+3464,3464,verb.stative,is
+3466,3466,noun.time,today
+3470,3470,noun.act,education
+3471,3471,noun.person,specialists
+3474,3474,noun.act,trial
+3475,3475,verb.communication,argued
+3478,3478,noun.state,segregation
+3480,3480,noun.person,children
+3481,3481,verb.creation,creates
+3482,3482,noun.cognition,feelings
+3484,3484,noun.attribute,superiority
+3487,3487,noun.group,group
+3489,3489,noun.state,inferiority
+3496,3496,verb.stative,be
+3499,3499,verb.social,interact
+3501,3501,verb.communication,mingle
+3504,3504,noun.cognition,prejudices
+3505,3506,verb.change,break down
+3512,3512,verb.cognition,learn
+3521,3521,verb.possession,has
+3524,3524,noun.act,shot
+3526,3526,noun.state,success
+3529,3529,verb.emotion,hope
+3530,3530,verb.stative,is
+3533,3533,noun.communication,book
+3535,3535,verb.social,help
+3536,3536,noun.person,children
+3539,3539,noun.group,people
+3540,3540,verb.cognition,learn
+3547,3547,noun.event,event
+3550,3550,noun.time,history
+3554,3554,verb.emotion,hope
+3558,3558,verb.perception,see
+3560,3560,verb.cognition,reflected
+3562,3562,noun.person,Sylvia
+3564,3564,noun.communication,story
+3566,3566,verb.cognition,realize
+3569,3569,noun.communication,voices
+3570,3570,verb.stative,are
+3577,3577,verb.social,make
+3579,3579,noun.act,contributions
+3582,3582,noun.group,country
+3584,3585,noun.person,Gonzalo Mendez
+3591,3592,noun.communication,commemorative stamp
+3596,3596,noun.person,Sylvia
+3600,3600,noun.person,girl
+3607,3607,noun.person,Sylvia
+3612,3612,verb.possession,receiving
+3621,3621,noun.person,Sylvia
+3623,3623,noun.person,parents
+3627,3628,noun.location,Middle right
+3631,3632,noun.group,Westminster school
+3634,3635,noun.location,Bottom right
+3637,3638,noun.location,Hoover Elementary
+3648,3648,noun.group,Congress
+3651,3651,noun.group,association
+3653,3653,verb.social,promotes
+3655,3655,noun.attribute,interests
+3658,3659,noun.location,United States
+3662,3662,noun.group,countries
+3663,3663,noun.communication,appeal
+3666,3666,verb.communication,request
+3670,3670,noun.act,trial
+3672,3672,verb.change,finished
+3677,3677,noun.group,court
+3678,3678,verb.cognition,review
+3680,3680,noun.event,outcome
+3681,3681,noun.communication,brief
+3685,3685,noun.communication,term
+3687,3687,verb.stative,refers
+3690,3690,noun.communication,summary
+3691,3691,verb.change,prepared
+3694,3694,noun.person,lawyer
+3697,3697,noun.act,trial
+3698,3698,noun.event,case
+3701,3701,noun.communication,dispute
+3704,3704,noun.group,parties
+3706,3706,verb.communication,resolved
+3709,3709,noun.group,court
+3710,3710,noun.person,citizen
+3713,3713,noun.person,person
+3715,3715,verb.possession,owes
+3716,3716,noun.act,allegiance
+3719,3719,noun.group,government
+3721,3721,verb.stative,is
+3726,3726,noun.attribute,rights
+3728,3728,noun.attribute,privileges
+3729,3729,noun.group,court
+3732,3732,noun.person,judge
+3736,3736,noun.group,body
+3738,3738,verb.social,makes
+3739,3739,noun.act,decisions
+3741,3741,noun.event,cases
+3745,3745,noun.group,law
+3746,3746,noun.artifact,courthouse
+3749,3749,noun.artifact,building
+3752,3752,noun.event,case
+3754,3754,verb.cognition,tried
+3755,3755,noun.group,court
+3756,3757,noun.act,of appeals
+3760,3760,noun.group,court
+3762,3762,verb.cognition,reviews
+3763,3763,noun.act,decisions
+3764,3764,verb.social,made
+3766,3767,noun.communication,lower courts
+3768,3768,noun.artifact,courtroom
+3771,3771,noun.artifact,room
+3774,3774,noun.artifact,courthouse
+3777,3777,noun.act,case
+3779,3779,verb.cognition,tried
+3780,3780,noun.act,decision
+3783,3783,noun.person,judge
+3785,3785,noun.cognition,conclusion
+3787,3787,verb.cognition,hearing
+3789,3789,noun.cognition,sides
+3792,3792,noun.act,case
+3795,3795,noun.act,ruling
+3798,3798,verb.creation,causing
+3800,3800,noun.possession,loss
+3802,3804,noun.cognition,self - respect
+3806,3806,noun.state,opportunity
+3809,3809,noun.cognition,policy
+3811,3811,verb.social,treating
+3814,3814,noun.cognition,discrimination
+3819,3819,noun.relation,basis
+3822,3822,noun.attribute,gender
+3824,3824,noun.state,race
+3827,3827,noun.attribute,age
+3828,3828,noun.attribute,ethnicity
+3831,3831,noun.group,group
+3833,3833,noun.group,people
+3835,3835,verb.possession,have
+3841,3841,noun.cognition,tradition
+3844,3844,noun.person,worker
+3848,3848,noun.person,laborer
+3851,3851,verb.creation,working
+3852,3852,noun.time,long
+3853,3853,noun.time,hours
+3856,3856,noun.possession,pay
+3857,3857,noun.state,hygiene
+3859,3859,noun.state,conditions
+3860,3860,verb.stative,relating
+3862,3862,noun.state,health
+3866,3866,noun.state,wellbeing
+3870,3870,noun.animal,skin
+3871,3871,noun.state,disease
+3876,3876,noun.attribute,quality
+3877,3877,noun.act,injustice
+3884,3884,noun.act,integrate
+3887,3887,verb.contact,open
+3889,3889,noun.person,members
+3892,3892,noun.group,races
+3894,3894,noun.group,ethnicities
+3898,3898,noun.group,groups
+3901,3902,noun.group,Citizens League
+3905,3905,noun.group,association
+3907,3907,verb.competition,protects
+3910,3911,noun.attribute,human rights
+3913,3914,verb.social,works for
+3915,3915,noun.group,social
+3916,3916,noun.event,change
+3925,3925,noun.group,community
+3926,3926,noun.person,judge
+3930,3930,noun.person,official
+3932,3932,verb.social,appointed
+3937,3937,verb.social,oversees
+3938,3938,noun.act,cases
+3941,3941,noun.group,court
+3942,3942,noun.act,lawsuit
+3945,3945,noun.communication,dispute
+3946,3946,verb.social,brought
+3949,3949,noun.group,court
+3952,3952,noun.act,decision
+3955,3955,verb.social,made
+3958,3958,noun.person,case
+3959,3959,noun.person,lawyer
+3962,3962,noun.person,person
+3966,3966,noun.communication,law
+3968,3968,verb.communication,advises
+3972,3972,noun.cognition,matters
+3973,3978,noun.group,League of United Latin American Citizens
+3983,3984,noun.group,civil rights
+3985,3985,noun.group,organization
+3988,3989,noun.location,United States
+3990,3994,noun.group,National Association for the Advancement
+3996,3997,noun.group,Colored People
+4000,4000,noun.group,association
+4002,4003,verb.social,works for
+4005,4005,noun.attribute,rights
+4008,4008,verb.change,eliminate
+4009,4010,noun.cognition,racial discrimination
+4011,4011,noun.state,opportunity
+4014,4014,noun.state,chance
+4016,4016,verb.change,advance
+4017,4017,noun.communication,petition
+4021,4022,noun.communication,written document
+4023,4023,verb.communication,requesting
+4025,4025,noun.attribute,right
+4027,4027,noun.attribute,benefit
+4030,4030,noun.person,person
+4032,4032,noun.group,group
+4034,4034,noun.group,authority
+4035,4036,noun.group,public school
+4039,4039,noun.group,school
+4040,4040,verb.possession,paid
+4044,4044,noun.possession,funds
+4046,4046,verb.possession,provides
+4048,4048,noun.act,education
+4051,4051,noun.person,children
+4054,4054,noun.group,community
+4056,4056,noun.location,district
+4057,4057,noun.cognition,rule
+4060,4060,verb.cognition,decide
+4063,4063,verb.communication,issue
+4065,4065,noun.act,ruling
+4066,4066,noun.act,ruling
+4069,4070,noun.communication,court decision
+4071,4072,noun.group,school board
+4075,4075,noun.group,group
+4078,4078,noun.person,officials
+4080,4080,verb.social,oversees
+4081,4082,noun.group,public schools
+4086,4086,noun.location,area
+4087,4087,noun.group,school
+4088,4088,noun.location,district
+4091,4091,noun.location,area
+4096,4096,noun.location,neighborhood
+4098,4098,noun.location,town
+4101,4101,noun.location,county
+4104,4105,noun.group,public schools
+4107,4107,verb.contact,administered
+4109,4109,verb.social,segregate
+4112,4112,verb.social,separate
+4113,4113,noun.group,people
+4116,4116,noun.state,race
+4118,4118,noun.attribute,ethnicity
+4120,4120,noun.group,class
+4124,4124,noun.cognition,factors
+4132,4132,noun.cognition,policy
+4133,4133,verb.cognition,based
+4136,4138,noun.group,U.S. Supreme Court
+4139,4139,noun.act,ruling
+4141,4143,noun.location,Plessy u. Ferguson
+4148,4148,verb.cognition,holds
+4151,4151,noun.group,groups
+4153,4153,noun.group,people
+4156,4156,verb.possession,denied
+4157,4157,noun.attribute,access
+4159,4160,noun.artifact,public spaces
+4164,4164,noun.artifact,schools
+4166,4166,noun.artifact,housing
+4168,4169,noun.artifact,eating establishments
+4171,4171,noun.artifact,restrooms
+4173,4173,noun.artifact,pools
+4176,4176,noun.act,entertainment
+4177,4177,noun.artifact,facilities
+4184,4184,verb.possession,provided
+4185,4185,noun.artifact,facilities
+4189,4189,noun.attribute,nature
+4190,4190,verb.contact,stand
+4193,4193,noun.location,place
+4196,4196,noun.artifact,courtroom
+4199,4199,noun.person,witness
+4200,4200,verb.contact,sits
+4203,4203,verb.contact,stands
+4207,4207,verb.communication,questioned
+4210,4210,noun.person,lawyer
+4211,4211,noun.person,superintendent
+4214,4214,noun.person,head
+4217,4217,noun.group,school
+4218,4218,noun.location,district
+4220,4220,noun.location,States
+4221,4221,verb.communication,define
+4223,4223,noun.attribute,role
+4225,4225,noun.attribute,authority
+4228,4229,noun.person,school superintendent
+4232,4232,noun.attribute,ways
+4238,4238,noun.attribute,quality
+4242,4242,noun.body,hair
+4243,4243,noun.artifact,braid
+4244,4244,noun.act,trial
+4248,4248,noun.act,examination
+4250,4250,noun.communication,evidence
+4253,4253,noun.person,judge
+4255,4255,noun.group,jury
+4260,4260,verb.cognition,make
+4262,4262,noun.act,decision
+4265,4265,noun.act,case
+4266,4266,noun.state,tuberculosis
+4271,4271,noun.state,disease
+4274,4274,noun.body,lungs
+4275,4276,noun.location,U.S. territory
+4279,4279,noun.location,area
+4283,4284,noun.location,Puerto Rico
+4288,4288,verb.social,governed
+4291,4292,noun.location,United States
+4294,4294,verb.stative,is
+4297,4297,noun.location,state
+4301,4301,noun.communication,Interviews
+4303,4303,verb.communication,interviews
+4305,4306,noun.person,Sylvia Mendez
+4308,4308,noun.location,Austin
+4310,4310,noun.location,Texas
+4312,4312,noun.time,October
+4317,4317,noun.location,Fullerton
+4319,4319,noun.location,California
+4321,4321,noun.time,April
+4324,4324,noun.communication,Transcripts
+4325,4325,noun.communication,Documents
+4327,4327,noun.communication,records
+4329,4331,noun.person,Mendez v. Westminster
+4337,4337,verb.possession,found
+4343,4343,noun.location,Riverside
+4347,4347,noun.location,Calif.
+4350,4350,noun.communication,Documents
+4352,4352,noun.communication,records
+4362,4362,verb.possession,found
+4368,4369,noun.location,San Francisco
+4371,4371,noun.location,Bruno
+4373,4373,noun.location,Calif.
+4377,4377,noun.communication,information
+4380,4381,noun.location,National Archives
+4388,4388,noun.person,http://www.archives.gov/research
+4390,4391,noun.group,Films Bennett
+4393,4393,noun.person,Erica
+4396,4397,noun.person,Fred Paskiewicz
+4401,4401,noun.person,Westminster
+4403,4404,noun.location,Families for
+4407,4407,noun.location,Fullerton
+4409,4409,noun.location,Calif.
+4411,4412,noun.location,Fullerton College
+4416,4416,noun.location,Robbie
+4418,4418,noun.person,Sandra
+4420,4422,noun.location,Mendez vs. Westminster
+4433,4434,noun.location,Huntington Beach
+4436,4436,noun.location,Calif.
+4444,4445,noun.person,Books Conkling
+4451,4451,noun.person,Aki
+4453,4453,noun.location,Berkeley
+4462,4462,noun.person,Matsuda
+4464,4464,noun.person,Michael
+4467,4468,noun.person,Sandra Robbie
+4470,4471,noun.person,Los Mendez
+4474,4476,noun.location,ciudad de Westminster
+4484,4484,noun.communication,historia
+4496,4497,noun.location,Yorba Linda
+4499,4499,noun.location,Calif.
+4501,4502,noun.location,Blue State
+4507,4507,noun.person,Strum
+4509,4509,noun.person,Philippa
+4511,4513,noun.person,Mendez v. Westminster
+4515,4516,noun.group,School Desegregation
+4523,4523,noun.location,Lawrence
+4525,4525,noun.location,Kans.
+4527,4528,noun.location,University Press
+4530,4530,noun.location,Kansas
+4534,4534,noun.communication,Articles
+4536,4536,noun.act,Reports
+4539,4539,noun.person,Christopher
+4545,4546,noun.location,Schoolhouse Door
+4548,4550,noun.person,Mendez v. Westminster
+4552,4553,noun.group,Equal Protection
+4567,4570,noun.group,La Raza Law Journal
+4573,4573,noun.communication,no
+4583,4585,noun.location,University of California
+4587,4588,noun.location,Los Angeles
+4591,4592,noun.person,E Pluribus
+4595,4595,noun.group,Separation
+4608,4608,noun.time,August
+4613,4613,noun.person,Luhby
+4615,4615,noun.person,Tami
+4628,4628,noun.time,June
+4634,4634,noun.cognition,economy
+4636,4636,noun.state,wealth
+4640,4640,noun.group,race
+4649,4649,noun.person,Orfield
+4651,4651,noun.person,Gary
+4653,4654,noun.person,John Kucsera
+4657,4658,noun.person,Genevieve Siegel
+4663,4664,noun.person,E Pluribus
+4681,4683,noun.group,Civil Rights Project
+4685,4687,noun.location,University of California
+4689,4690,noun.location,Los Angeles
+4696,4696,noun.location,Motoko
+4702,4702,noun.location,Schools
+4704,4705,noun.group,Study Finds
+4708,4709,noun.location,New York
+4710,4710,noun.group,Times
+4722,4722,noun.cognition,education
+4724,4724,noun.act,segregation
+4732,4732,noun.act,study
+4734,4734,noun.communication,finds.html
+4737,4737,noun.time,August
+4744,4745,noun.person,Vicki L.
+4754,4754,noun.person,Americans
+4756,4758,noun.person,Mendez v. Westminster
+4761,4762,noun.location,California Road
+4764,4768,noun.group,Brown v. Board of Education
+4771,4773,noun.group,College Board Review
+4774,4774,noun.communication,no
+4778,4778,noun.time,Fall
+4785,4785,noun.communication,Websites
+4790,4792,noun.group,Board of Education
+4799,4799,noun.communication,website
+4807,4807,noun.person,Mendez
+4812,4812,noun.person,www.mendezwestminstercase.blogspot.com
+4814,4814,noun.person,Sylvia
+4816,4818,noun.person,Sandra Mendez Duran
+4820,4820,noun.communication,page
+4823,4823,noun.communication,website
+4825,4827,noun.person,http://storycorps.org/listen/sylvia-mendez-and-sandra-mendez-duran/. Sylvia Mendez
+4830,4830,noun.communication,site
+4843,4844,noun.person,Sylvia Mendez
+4850,4850,noun.communication,website
+4857,4857,noun.communication,TEXT-^
+4859,4859,noun.communication,dialogue
+4862,4862,noun.communication,trial
+4863,4863,noun.communication,scene
+4864,4864,verb.change,comes
+4867,4867,noun.communication,court
+4868,4868,noun.communication,transcripts
+4871,4871,verb.change,shortened
+4873,4873,verb.creation,edited
+4876,4876,noun.attribute,clarity
+4878,4878,noun.act,pacing
+4881,4881,noun.communication,dialogue
+4884,4884,noun.relation,rest
+4887,4887,noun.communication,book
+4889,4889,verb.creation,inspired
+4891,4891,noun.communication,conversations
+4893,4893,verb.perception,had
+4895,4896,noun.person,Sylvia Mendez
+4898,4898,noun.time,October
+4901,4901,noun.time,April
+4906,4906,noun.communication,Note
+4908,4908,noun.communication,Page
+4909,4909,noun.communication,numbers
+4912,4912,verb.stative,refer
+4914,4914,noun.artifact,pictures
+4917,4918,noun.group,Jewish Congress
+4921,4921,noun.group,Atkinson
+4923,4923,noun.person,Mr.
+4925,4925,noun.location,county
+4926,4926,noun.person,superintendent
+4929,4929,noun.location,California
+4931,4931,noun.group,school
+4932,4932,noun.act,integration
+4937,4937,noun.group,family
+4939,4939,verb.social,joining
+4941,4941,noun.communication,lawsuit
+4950,4950,noun.person,Mr.
+4952,4952,noun.artifact,school
+4953,4953,noun.person,superintendent
+4962,4965,noun.group,Japanese American Citizens League
+4968,4968,noun.location,Kent
+4970,4970,noun.person,Mr.
+4972,4972,noun.artifact,school
+4973,4973,noun.person,superintendent
+4980,4985,noun.group,League of United Latin American Citizens
+4988,4989,noun.location,Los Angeles
+4991,4991,noun.act,trial
+5001,5001,verb.contact,gathering
+5002,5002,noun.act,support
+5004,5004,noun.communication,lawsuit

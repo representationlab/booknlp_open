@@ -1,0 +1,170 @@
+COREF,start_token,end_token,prop,cat,text
+0,1,1,PRON,PER,MY
+9,11,12,PROP,PER,Anastasia Higginbotham
+1,20,22,PROP,FAC,Fifth Avenue New
+2,23,23,PROP,GPE,York
+9,32,33,PROP,PER,Anastasia Higginbotham
+3,82,83,PROP,FAC,Dottir Press
+9,111,112,PROP,PER,Anastasia Higginbotham
+10,119,120,PROP,PER,Drew Stevens
+11,124,125,PROP,PER,Jennifer Baumgardner
+10,127,128,PROP,PER,Drew Stevens
+12,130,131,PROP,PER,Abraham Higginbotham
+13,133,134,PROP,PER,Lisa Daniels
+14,137,138,PROP,PER,Jon Luongo
+15,146,148,PROP,PER,Sabatino Luongo Higginbotham
+16,153,155,PROP,PER,Lionel Luongo Higginbotham
+4,157,159,PROP,ORG,Library of Congress
+23,184,188,NOM,GPE,the United States of America
+24,190,199,PROP,PER,Worzalla Serious Ben Howort Loretta Ross Anyanwu Uwa Randy Clancy
+5,203,203,PROP,GPE,America
+52,206,207,NOM,PER,White people
+52,214,214,PRON,PER,they
+52,220,220,PRON,PER,they
+17,221,223,PROP,PER,Noleca Anderson Radway
+0,231,231,PRON,PER,me
+24,241,241,PRON,PER,me
+18,248,250,PROP,PER,angel Kyodo williams
+24,265,265,PRON,PER,I
+24,270,270,PRON,PER,my
+53,270,273,NOM,PER,my own white sons
+19,285,286,PROP,PER,Toni Morrison
+53,291,291,PRON,PER,their
+54,291,292,NOM,PER,their teachers
+24,294,294,PRON,PER,mine
+6,301,303,PROP,ORG,Brooklyn Free School
+24,306,306,PRON,PER,my
+55,306,307,NOM,PER,my family
+56,314,316,NOM,PER,grown - ups
+57,323,323,NOM,PER,Kids
+52,343,343,PRON,PER,they
+52,352,352,PRON,PER,their
+58,358,359,NOM,PER,that policeman
+58,362,362,PRON,PER,him
+52,365,365,PRON,PER,They
+59,372,372,PRON,PER,You
+59,381,381,PRON,PER,You
+60,388,388,PRON,PER,Our
+61,388,389,NOM,PER,Our family
+62,393,393,NOM,PER,everyone
+60,395,395,PRON,PER,We
+60,403,403,PRON,PER,we
+63,417,418,NOM,LOC,the world
+59,420,420,PRON,PER,you
+59,424,424,PRON,PER,you
+63,426,427,NOM,LOC,the world
+24,430,430,PRON,PER,I
+24,434,434,PRON,PER,my
+65,434,435,NOM,PER,my aunt
+59,460,460,PRON,PER,you
+59,463,463,PRON,PER,you
+66,467,467,NOM,FAC,stores
+67,470,470,NOM,VEH,cars
+68,473,473,NOM,FAC,sidewalks
+69,476,476,NOM,FAC,School
+59,478,478,PRON,PER,your
+70,491,491,NOM,FAC,neighborhoods
+59,493,493,PRON,PER,you
+59,497,497,PRON,PER,you
+71,499,499,NOM,FAC,here
+60,506,506,PRON,PER,we
+72,513,513,PRON,PER,They
+73,517,518,NOM,FAC,the road
+74,520,520,NOM,PER,Marchers
+75,526,529,NOM,PER,the unarmed African American
+74,531,531,PRON,PER,They
+76,538,539,NOM,GPE,the nation
+77,553,556,NOM,PER,young men of color
+74,558,558,NOM,PER,Marchers
+79,560,561,NOM,PER,past victims
+80,567,568,NOM,PER,a bystander
+25,600,600,PRON,PER,We
+26,614,614,PRON,PER,your
+27,614,616,NOM,PER,your own people
+26,618,618,PRON,PER,your
+28,618,620,NOM,PER,your own family
+26,624,624,PRON,PER,you
+29,627,630,NOM,PER,Even people you love
+26,629,629,PRON,PER,you
+29,638,638,PRON,PER,they
+29,640,640,PRON,PER,they
+30,642,644,NOM,PER,the good ones
+26,650,650,PRON,PER,your
+26,653,653,PRON,PER,You
+26,663,663,PRON,PER,You
+26,666,666,PRON,PER,your
+23,680,684,NOM,GPE,the United States of America
+52,686,687,NOM,PER,white people
+33,693,694,NOM,PER,Black people
+34,709,716,NOM,PER,people who love justice and love each other
+35,723,725,NOM,PER,Many white people
+35,728,728,PRON,PER,they
+36,762,764,NOM,PER,Some white people
+37,766,770,NOM,PER,the leaders of Black liberation
+26,800,800,PRON,PER,you
+0,827,827,PRON,PER,I
+26,838,838,PRON,PER,you
+38,846,846,NOM,PER,anyone
+0,848,848,PRON,PER,me
+0,853,853,PRON,PER,I
+0,858,858,PRON,PER,I
+26,860,860,PRON,PER,yours
+0,862,862,PRON,PER,mine
+39,864,864,NOM,PER,everybody
+26,867,867,PRON,PER,You
+0,877,877,PRON,PER,me
+0,879,879,PRON,PER,I
+40,888,888,NOM,PER,officer
+26,895,895,PRON,PER,your
+41,910,910,PRON,PER,we
+42,914,915,NOM,PER,each other
+41,917,917,PRON,PER,ourselves
+0,920,920,PRON,PER,I
+43,922,923,NOM,FAC,a playground
+26,933,933,PRON,PER,your
+26,943,943,PRON,PER,you
+81,994,1018,NOM,PER,"the hyes "" of your friends , neighbors , loved , ones . , and cell fellow hamans of _ ... v~ ? ' iumco"
+26,998,998,PRON,PER,your
+82,998,999,NOM,PER,your friends
+83,1001,1001,NOM,PER,neighbors
+84,1005,1005,NOM,PER,ones
+85,1009,1015,NOM,PER,cell fellow hamans of _ ... v~
+86,1035,1035,PRON,PER,she
+87,1041,1053,NOM,PER,a white librarian who fought for racial When Juliette was riding the bus
+20,1049,1049,PROP,PER,Juliette
+88,1052,1053,NOM,VEH,the bus
+89,1055,1057,NOM,PER,the white driver
+89,1061,1061,PRON,PER,he
+90,1063,1063,PRON,PER,their
+20,1068,1068,PROP,PER,Juliette
+91,1086,1087,NOM,PER,the driver
+89,1089,1089,PRON,PER,his
+44,1100,1100,PRON,PER,me
+92,1107,1110,NOM,PER,a Black bus rider
+7,1121,1121,PROP,GPE,Montgomery
+8,1123,1123,PROP,GPE,Alabama
+44,1134,1134,PRON,PER,herself
+44,1139,1139,PRON,PER,she
+45,1160,1168,NOM,PER,Some people who should be alive in this moment
+46,1170,1174,NOM,PER,nob . And that hurbs
+21,1176,1177,PROP,PER,Wribe bheir
+47,1190,1190,PRON,PER,you
+47,1194,1194,PRON,PER,you
+47,1218,1218,PRON,PER,you
+48,1251,1251,PRON,PER,we
+47,1264,1264,PRON,PER,you
+47,1267,1267,PRON,PER,your
+47,1273,1273,PRON,PER,you
+63,1278,1279,NOM,LOC,the world
+47,1282,1282,PRON,PER,Your
+50,1289,1289,PRON,PER,Whab
+47,1291,1291,PRON,PER,you
+47,1301,1301,PRON,PER,you
+47,1318,1318,PRON,PER,you
+47,1324,1324,PRON,PER,your
+47,1330,1330,PRON,PER,you
+47,1333,1333,PRON,PER,you
+47,1338,1338,PRON,PER,you
+22,1339,1339,PROP,PER,wanb
+51,1342,1342,PRON,PER,hisbory
+48,1353,1353,PRON,PER,we

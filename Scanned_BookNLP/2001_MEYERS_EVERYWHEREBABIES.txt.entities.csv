@@ -1,0 +1,55 @@
+COREF,start_token,end_token,prop,cat,text
+1,7,8,NOM,PER,tall babies
+2,10,11,NOM,PER,small babies
+3,13,16,NOM,PER,summer and fall babies
+4,18,21,NOM,PER,winter and spring babies
+5,23,23,NOM,PER,babies
+5,30,30,PRON,PER,their
+5,34,34,PRON,PER,their
+5,37,37,PRON,PER,their
+5,40,40,PRON,PER,their
+5,43,43,NOM,PER,babies
+5,46,46,PRON,PER,their
+5,53,53,PRON,PER,their
+5,57,57,PRON,PER,their
+5,76,76,NOM,PER,babies
+5,118,118,NOM,PER,babies
+9,138,138,NOM,PER,friends
+5,143,143,PRON,PER,them
+5,146,146,NOM,PER,babies
+5,168,168,NOM,PER,babies
+12,176,177,NOM,VEH,car seats
+0,181,181,PROP,PER,Daddy
+5,188,188,PRON,PER,they
+5,191,191,PRON,PER,they
+5,194,194,PRON,PER,they
+5,197,197,PRON,PER,they
+5,202,202,NOM,PER,babies
+5,205,205,PRON,PER,they
+5,207,207,PRON,PER,their
+5,212,212,PRON,PER,they
+5,215,215,PRON,PER,they
+14,244,244,NOM,PER,banies
+15,251,273,NOM,PER,"this - little - piggy , peek - a - boo , pat - a - cake , roll - the - ball"
+5,285,285,NOM,PER,babies
+17,306,307,NOM,PER,young people
+18,309,310,NOM,PER,old people
+19,312,313,NOM,PER,anyone funny
+5,315,315,NOM,PER,babies
+5,330,330,NOM,PER,babies
+5,334,334,PRON,PER,they
+22,337,337,NOM,FAC,upstairs
+23,339,339,NOM,FAC,downstairs
+5,350,350,PRON,PER,they
+5,357,357,PRON,PER,themselves
+5,366,366,NOM,PER,babies
+5,374,374,PRON,PER,they
+5,378,378,PRON,PER,they
+5,382,382,PRON,PER,they
+5,386,386,PRON,PER,they
+5,390,390,PRON,PER,they
+5,394,394,PRON,PER,they
+5,398,398,PRON,PER,they
+5,402,402,NOM,PER,babies
+5,419,419,NOM,PER,babies
+5,430,430,PRON,PER,they

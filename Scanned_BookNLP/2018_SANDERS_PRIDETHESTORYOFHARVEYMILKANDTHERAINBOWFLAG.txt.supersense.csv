@@ -1,0 +1,775 @@
+start_token,end_token,supersense_category,text
+4,5,noun.person,Harvey Milk
+12,13,noun.person,Rob Sanders
+14,14,verb.creation,llustrated
+16,17,noun.person,Steven Salerno
+18,19,noun.group,Random House
+21,22,noun.location,New York
+27,27,noun.person,uncle
+28,29,noun.person,Jack Sanders
+31,31,noun.communication,Text
+36,37,noun.person,Rob Sanders
+39,39,noun.artifact,art
+42,42,noun.cognition,illustrations
+43,43,noun.communication,copyright
+47,48,noun.person,Steven Salerno
+53,53,verb.creation,Published
+56,57,noun.location,United States
+59,60,noun.person,Random House
+66,66,noun.cognition,division
+68,70,noun.group,Penguin Random House
+73,74,noun.location,New York
+76,77,noun.group,Random House
+80,80,noun.artifact,colophon
+81,81,verb.stative,are
+83,83,noun.communication,trademarks
+85,87,noun.group,Penguin Random House
+96,97,noun.person,randomhousekids.com Educators
+99,99,noun.person,librarians
+103,103,noun.group,variety
+105,105,noun.cognition,teaching
+106,106,noun.artifact,tools
+108,108,verb.social,visit
+111,114,noun.group,RHTeachersLibrarians.com Library of Congress
+123,123,noun.person,Sanders
+125,125,noun.person,Rob
+127,127,noun.person,author
+130,130,noun.person,Salerno
+134,134,noun.person,illustrator
+136,136,noun.communication,Title
+138,138,noun.location,Pride
+141,141,noun.communication,story
+143,144,noun.person,Harvey Milk
+151,152,noun.person,Rob Sanders
+154,154,verb.creation,illustrated
+156,157,noun.person,Steven Salerno
+159,159,noun.communication,Description
+162,162,noun.communication,edition
+165,166,noun.location,New York
+168,169,noun.group,Random House
+174,174,noun.communication,Identifiers
+179,179,noun.communication,print
+185,185,noun.communication,ebook
+238,238,noun.communication,literature
+241,242,noun.group,Gay politicians
+244,244,noun.location,California
+246,247,noun.location,San Francisco
+249,249,noun.communication,Biography
+252,252,noun.communication,literature
+255,256,noun.group,Gay pride
+257,257,noun.event,celebrations
+259,259,noun.location,California
+261,262,noun.location,San Francisco
+265,265,noun.communication,literature
+269,270,noun.act,liberation movement
+272,273,noun.location,United States
+276,276,noun.communication,literature
+282,283,noun.location,United States
+285,285,noun.communication,History
+288,288,noun.communication,literature
+292,293,noun.group,LCC F869.S353
+297,297,noun.communication,print
+303,303,noun.communication,ebook
+311,311,noun.act,design
+313,315,noun.person,Nicole de las
+316,319,noun.group,Heras MANUFACTURED IN CHINA
+329,329,verb.stative,supports
+334,334,verb.possession,celebrates
+336,336,noun.attribute,right
+346,346,verb.possession,give
+348,348,noun.feeling,hope
+354,354,noun.object,world
+356,356,verb.emotion,hope
+360,360,noun.time,tomorrow
+363,366,noun.person,J # Harvey Milk
+367,367,verb.stative,was
+370,370,noun.person,man
+374,374,verb.perception,had
+377,377,noun.cognition,dream
+380,380,noun.cognition,dream
+382,382,verb.change,change
+383,383,noun.communication,history
+385,385,noun.person,Harvey
+386,386,verb.cognition,dreamed
+392,392,noun.group,people
+395,395,verb.possession,have
+396,396,noun.attribute,equality
+399,399,verb.creation,dreamed
+404,404,noun.person,friends
+407,407,verb.body,treated
+413,413,verb.creation,dreamed
+416,416,noun.time,day
+418,418,noun.group,people
+420,420,verb.stative,be
+423,423,verb.stative,live
+425,425,verb.emotion,love
+428,428,verb.emotion,pleased
+432,433,noun.location,New York
+434,434,noun.communication,accent
+436,436,noun.person,Harvey
+437,437,verb.communication,talked
+442,442,noun.cognition,dream
+445,445,noun.attribute,voice
+446,446,verb.perception,boomed
+449,449,noun.body,body
+450,450,verb.motion,bounced
+452,452,noun.state,energy
+454,454,noun.feeling,excitement
+457,457,noun.group,people
+458,458,verb.perception,listened
+462,462,verb.communication,agreed
+469,469,noun.person,Harvey
+471,472,noun.communication,big voice
+476,476,noun.cognition,dream
+480,480,verb.stative,stopped
+483,483,verb.cognition,discovered
+487,487,noun.act,way
+489,489,verb.change,change
+490,490,noun.communication,laws
+491,491,verb.stative,was
+493,493,verb.social,help
+494,494,verb.creation,make
+495,495,noun.communication,laws
+500,501,noun.person,Harvey Milk
+502,502,verb.social,took
+505,505,noun.act,step
+508,508,noun.cognition,dream
+511,511,verb.stative,became
+518,518,noun.group,people
+521,521,verb.social,elected
+524,524,noun.act,office
+527,528,noun.location,United States
+530,530,noun.person,Harvey
+533,533,noun.person,friends
+534,534,verb.creation,planned
+535,535,noun.act,marches
+537,537,verb.communication,protest
+538,538,noun.attribute,inequality
+541,541,noun.communication,laws
+545,545,noun.time,days
+550,550,noun.act,marches
+552,552,noun.person,Harvey
+553,553,verb.perception,had
+555,555,noun.cognition,idea
+558,558,noun.communication,symbol
+561,561,verb.cognition,thought
+566,566,noun.communication,symbol
+568,568,verb.perception,shows
+571,571,verb.stative,are
+575,575,verb.perception,feel
+579,579,verb.stative,carry
+582,582,noun.communication,march
+584,584,noun.quantity,Something
+586,586,verb.communication,make
+587,587,noun.group,people
+588,588,verb.cognition,feel
+590,590,verb.stative,'re
+591,591,noun.relation,part
+594,594,noun.group,community
+598,598,verb.creation,give
+599,599,noun.person,people
+600,600,noun.feeling,hope
+605,605,noun.person,Harvey
+606,606,verb.cognition,knew
+608,608,noun.person,artist
+611,611,verb.social,help
+613,614,noun.person,Gilbert Baker
+616,616,noun.person,Harvey
+617,617,verb.communication,asked
+619,619,noun.person,Gilbert
+620,620,verb.communication,said
+624,624,verb.consumption,need
+626,626,noun.artifact,flag
+629,629,noun.person,Volunteers
+630,630,verb.motion,arrived
+632,632,verb.social,help
+633,633,noun.person,Gilbert
+635,635,noun.act,design
+636,636,verb.change,come
+638,638,noun.location,life
+642,642,verb.change,dipped
+643,643,noun.artifact,fabric
+646,646,noun.artifact,barrels
+652,652,noun.substance,dyes
+655,655,verb.contact,cut
+657,657,verb.contact,pieced
+659,659,verb.contact,sewed
+667,667,noun.group,Harvey
+669,669,noun.group,Gilbert
+674,674,noun.person,activists
+675,675,verb.possession,had
+677,677,noun.artifact,flag
+680,680,noun.artifact,flag
+684,684,noun.communication,stripes
+687,687,noun.communication,flag
+689,689,noun.person,Harvey
+690,690,verb.emotion,hoped
+692,692,verb.possession,give
+693,693,noun.feeling,hope
+696,696,noun.time,June
+703,703,verb.stative,was
+704,704,noun.time,time
+707,707,noun.act,march
+709,709,noun.phenomenon,breeze
+710,710,verb.motion,stirred
+712,713,noun.location,San Francisco
+716,716,noun.artifact,flag
+717,717,verb.motion,unfurled
+720,720,noun.phenomenon,wind
+721,721,verb.weather,blew
+724,724,noun.artifact,flag
+725,725,verb.motion,fluttered
+727,727,verb.contact,flapped
+730,730,verb.motion,flew
+733,733,noun.object,rainbow
+741,741,noun.person,men
+743,743,noun.person,women
+745,745,verb.motion,walked
+749,749,verb.motion,led
+751,751,noun.act,march
+753,753,noun.person,Harvey
+756,756,noun.group,people
+757,757,verb.communication,asked
+759,759,noun.attribute,equality
+762,762,verb.communication,asked
+765,765,verb.body,treated
+771,771,verb.communication,asked
+773,773,verb.stative,live
+775,775,verb.emotion,love
+778,778,verb.emotion,pleased
+781,781,verb.emotion,hoped
+783,783,noun.time,march
+785,785,verb.creation,make
+787,787,noun.attribute,difference
+789,789,noun.person,Harvey
+790,790,verb.stative,was
+794,794,noun.artifact,flag
+802,802,verb.emotion,hoped
+805,805,verb.stative,be
+811,811,noun.time,months
+816,816,noun.time,morning
+818,818,noun.time,November
+823,823,noun.person,Harvey
+826,826,noun.person,mayor
+828,829,noun.location,San Francisco
+831,832,noun.person,George Moscone
+835,835,verb.social,assassinated
+838,838,noun.state,lives
+840,840,verb.cognition,taken
+843,843,noun.person,man
+847,847,verb.cognition,think
+849,849,noun.person,Harvey
+852,853,verb.emotion,feel like
+857,857,noun.feeling,love
+862,862,noun.artifact,flag
+865,865,verb.motion,fly
+871,871,noun.time,night
+875,875,noun.quantity,thousands
+877,877,noun.quantity,thousands
+879,879,noun.group,people
+880,880,verb.motion,marched
+883,883,verb.contact,carrying
+884,884,noun.artifact,candles
+887,887,noun.phenomenon,candlelight
+888,888,verb.motion,wove
+891,891,noun.artifact,streets
+893,894,noun.location,San Francisco
+899,899,noun.object,hills
+902,902,noun.location,city
+903,903,noun.artifact,buildings
+906,906,noun.quantity,mile
+909,909,noun.phenomenon,candlelight
+911,911,noun.state,honor
+914,914,noun.state,lives
+915,915,verb.possession,lost
+920,920,verb.stative,been
+922,922,noun.event,end
+924,924,noun.person,Harvey
+926,926,noun.cognition,dream
+930,930,noun.artifact,flag
+934,934,verb.stative,was
+939,939,noun.communication,Flags
+941,941,verb.creation,created
+946,946,noun.attribute,colors
+947,947,verb.change,changed
+950,950,noun.communication,stripes
+951,951,verb.stative,became
+953,953,noun.communication,stripes
+957,957,noun.communication,meaning
+960,960,noun.artifact,flag
+963,963,verb.change,change
+966,966,verb.stative,was
+968,968,noun.communication,flag
+970,970,noun.attribute,equality
+972,972,noun.quantity,More
+975,975,noun.group,people
+976,976,verb.change,began
+978,979,verb.cognition,think of
+981,981,noun.artifact,flag
+984,984,noun.artifact,flag
+988,988,verb.change,began
+990,990,verb.emotion,feel
+991,991,noun.feeling,pride
+994,994,verb.change,began
+996,996,verb.perception,have
+997,997,noun.feeling,hope
+999,999,noun.person,Women
+1001,1001,noun.person,men
+1003,1003,noun.location,side
+1005,1005,noun.location,side
+1007,1007,verb.stative,carried
+1009,1009,noun.artifact,flag
+1014,1014,noun.quantity,mile
+1017,1017,noun.object,rainbow
+1018,1019,verb.motion,floating through
+1020,1022,noun.location,New York City
+1025,1025,noun.artifact,flag
+1026,1026,verb.motion,wove
+1029,1029,noun.artifact,streets
+1034,1034,noun.artifact,avenues
+1036,1036,noun.artifact,boulevards
+1039,1039,noun.location,city
+1040,1040,noun.artifact,buildings
+1043,1043,noun.group,people
+1044,1044,verb.communication,demanded
+1045,1045,noun.attribute,equality
+1048,1048,verb.communication,demanded
+1051,1051,verb.body,treated
+1057,1057,verb.communication,demanded
+1059,1059,verb.stative,live
+1061,1061,verb.emotion,love
+1064,1064,verb.consumption,pleased
+1067,1067,verb.stative,were
+1071,1071,verb.possession,had
+1072,1072,noun.feeling,hope
+1076,1076,verb.creation,make
+1078,1078,noun.event,difference
+1083,1084,noun.person,Gilbert Baker
+1085,1085,verb.creation,designed
+1092,1092,verb.stative,was
+1097,1097,noun.relation,rest
+1100,1100,verb.communication,ask
+1103,1103,noun.act,movement
+1105,1105,verb.stative,continue
+1109,1109,noun.act,movement
+1111,1111,verb.change,grow
+1113,1114,noun.group,More Rainbow
+1115,1115,noun.communication,Flags
+1117,1117,verb.creation,made
+1121,1121,verb.body,printed
+1123,1124,noun.artifact,bumper stickers
+1126,1128,noun.artifact,T - shirts
+1132,1132,verb.contact,hoisted
+1134,1134,noun.artifact,lampposts
+1136,1137,noun.location,Halsted Street
+1139,1139,noun.location,Chicago
+1143,1143,verb.contact,hung
+1146,1149,noun.group,Museum of Modern Art
+1151,1153,noun.location,New York City
+1158,1159,noun.location,Rainbow Flag
+1161,1161,verb.motion,flying
+1164,1164,noun.group,countries
+1167,1167,noun.location,Brazil
+1169,1169,noun.location,England
+1171,1171,noun.location,Israel
+1173,1173,noun.location,Russia
+1175,1175,noun.location,Singapore
+1178,1178,noun.location,Turkey
+1181,1182,noun.communication,Rainbow Flag
+1184,1184,verb.contact,unfurled
+1186,1186,noun.artifact,farms
+1189,1189,noun.location,suburbs
+1193,1193,noun.location,cities
+1196,1196,noun.communication,flag
+1197,1197,verb.stative,flew
+1200,1201,noun.artifact,public buildings
+1203,1203,noun.artifact,hotels
+1205,1206,noun.artifact,shop restaurants
+1208,1208,noun.artifact,churches
+1211,1211,noun.artifact,homes
+1217,1217,noun.time,June
+1223,1224,noun.group,White House
+1229,1229,noun.attribute,colors
+1232,1233,noun.communication,Rainbow Flag
+1239,1239,noun.attribute,Hope
+1241,1241,noun.attribute,Love
+1243,1243,noun.person,Harvey
+1245,1245,noun.cognition,dream
+1246,1246,verb.change,became
+1248,1248,noun.artifact,flag
+1253,1255,noun.group,END OF BOOK
+1257,1261,noun.group,BIOGRAPHICAL NOTESS The Rainbow Flag
+1267,1268,noun.location,Pride Flag
+1276,1276,noun.shape,triangle
+1277,1277,verb.stative,was
+1280,1280,noun.communication,symbol
+1281,1281,verb.cognition,associated
+1283,1283,noun.person,homosexuals
+1285,1286,noun.person,Adolf Hitler
+1287,1287,verb.communication,introduced
+1289,1289,noun.shape,triangle
+1291,1291,verb.social,shame
+1293,1293,noun.group,men
+1297,1297,verb.cognition,identify
+1302,1302,verb.social,sent
+1304,1305,noun.artifact,concentration camps
+1307,1308,noun.person,Harvey Milk
+1309,1309,verb.cognition,realized
+1315,1315,noun.group,community
+1316,1316,verb.consumption,needed
+1321,1321,noun.communication,symbol
+1325,1326,noun.communication,Rainbow Flag
+1328,1328,verb.creation,born
+1332,1332,noun.artifact,flag
+1334,1334,verb.creation,designed
+1336,1336,verb.creation,created
+1338,1339,noun.person,Gilbert Baker
+1342,1342,noun.group,group
+1344,1344,noun.person,volunteers
+1346,1346,verb.stative,had
+1348,1348,noun.communication,stripes
+1351,1351,noun.location,top
+1353,1353,noun.location,bottom
+1356,1356,verb.stative,were
+1358,1359,noun.substance,hot pink
+1363,1363,noun.attribute,orange
+1367,1367,noun.attribute,green
+1369,1369,noun.attribute,turquoise
+1373,1373,noun.attribute,blue
+1376,1376,noun.attribute,violet
+1379,1380,noun.group,Rainbow Flag
+1382,1382,verb.stative,includes
+1389,1389,noun.attribute,green
+1391,1392,noun.attribute,royal blue
+1395,1395,noun.attribute,violet
+1397,1398,noun.person,Harvey Milk
+1400,1400,verb.body,born
+1402,1402,noun.location,Woodmere
+1404,1405,noun.location,New York
+1408,1408,noun.time,May
+1414,1414,verb.cognition,studied
+1415,1415,noun.cognition,math
+1417,1417,noun.cognition,history
+1419,1424,noun.group,New York State College for Teachers
+1427,1427,verb.competition,served
+1430,1430,noun.artifact,navy
+1432,1432,verb.social,taught
+1433,1434,noun.group,public school
+1437,1437,verb.social,worked
+1440,1440,noun.act,production
+1441,1441,noun.person,associate
+1443,1443,noun.location,Broadway
+1446,1446,verb.motion,moved
+1448,1449,noun.location,San Francisco
+1453,1453,verb.social,opened
+1455,1455,noun.artifact,camera
+1456,1456,noun.artifact,shop
+1460,1460,verb.competition,won
+1462,1462,noun.location,seat
+1465,1466,noun.location,San Francisco
+1467,1469,noun.group,Board of Supervisors
+1473,1474,noun.person,Harvey Milk
+1475,1475,verb.change,became
+1479,1479,noun.location,country
+1484,1484,noun.group,people
+1485,1485,verb.social,elected
+1488,1488,noun.act,office
+1491,1491,verb.communication,asked
+1492,1493,noun.person,Gilbert Baker
+1495,1495,verb.creation,create
+1497,1497,noun.communication,symbol
+1499,1499,verb.stative,carry
+1505,1505,noun.act,march
+1508,1508,verb.creation,organizing
+1511,1511,noun.person,Gilbert
+1512,1512,verb.creation,created
+1514,1515,noun.communication,Rainbow Flag
+1517,1518,noun.person,Harvey Milk
+1520,1520,verb.social,assassinated
+1524,1526,noun.person,Mayor George Moscone
+1529,1530,noun.person,Dan White
+1532,1532,noun.time,November
+1538,1538,noun.time,months
+1545,1545,verb.motion,flown
+1547,1548,noun.person,Gilbert Baker
+1550,1550,verb.body,born
+1552,1552,noun.location,Chanute
+1554,1554,noun.location,Kansas
+1560,1560,noun.person,grandmother
+1561,1561,verb.possession,owned
+1563,1563,noun.person,men
+1565,1566,noun.artifact,clothing store
+1570,1570,verb.emotion,wanted
+1572,1572,verb.cognition,learn
+1574,1574,verb.contact,sew
+1577,1577,verb.emotion,loved
+1578,1578,noun.artifact,fabrics
+1582,1582,noun.person,adult
+1584,1584,noun.person,Gilbert
+1585,1585,verb.social,joined
+1587,1587,noun.group,army
+1592,1592,verb.motion,moved
+1594,1595,noun.location,San Francisco
+1600,1600,verb.social,settled
+1604,1604,noun.artifact,home
+1607,1607,verb.possession,bought
+1609,1610,noun.artifact,sewing machine
+1612,1613,noun.person,Harvey Milk
+1614,1614,verb.communication,asked
+1617,1617,verb.creation,create
+1619,1619,noun.communication,symbol
+1623,1623,noun.group,community
+1627,1627,verb.stative,was
+1629,1629,noun.person,Gilbert
+1630,1630,verb.creation,designed
+1632,1633,noun.communication,Rainbow Flag
+1636,1637,verb.stative,went on
+1639,1639,verb.creation,design
+1642,1642,noun.artifact,banners
+1644,1644,noun.artifact,flags
+1647,1649,noun.artifact,works of art
+1651,1651,noun.person,Gilbert
+1652,1652,verb.stative,continued
+1654,1654,verb.stative,be
+1659,1659,noun.person,activist
+1662,1662,noun.event,death
+1664,1664,noun.time,March
+1669,1669,noun.time,June
+1674,1674,verb.stative,was
+1679,1679,noun.time,day
+1682,1683,noun.group,Supreme Court
+1686,1689,noun.location,United States of America
+1690,1690,verb.communication,ruled
+1692,1692,noun.person,gays
+1694,1694,noun.person,lesbians
+1695,1695,verb.possession,have
+1698,1698,noun.attribute,right
+1700,1700,verb.social,marry
+1703,1703,verb.stative,are
+1706,1706,verb.stative,live
+1708,1708,verb.emotion,love
+1711,1711,verb.emotion,please
+1713,1714,noun.person,HARVEY MILK
+1717,1717,noun.time,TIME
+1720,1720,noun.time,May
+1722,1724,noun.person,Harvey Bernard Milk
+1728,1728,noun.location,Woodmere
+1730,1731,noun.location,New York
+1734,1734,noun.person,Graduates
+1736,1737,noun.group,high school
+1739,1739,noun.group,I--------------------------
+1741,1741,noun.person,Graduates
+1743,1744,noun.location,New York
+1745,1748,noun.group,State College for Teachers
+1751,1751,noun.communication,degree
+1753,1753,noun.cognition,mathematics
+1758,1758,verb.social,Serves
+1761,1762,noun.group,U.S. Navy
+1765,1765,verb.stative,is
+1770,1770,noun.person,diver
+1773,1774,noun.group,U.S.S. Kittiwake
+1779,1779,verb.social,Works
+1782,1783,noun.group,high school
+1784,1784,noun.cognition,math
+1786,1786,noun.person,history
+1787,1787,noun.person,teacher
+1789,1789,noun.act,basketball
+1790,1790,noun.person,coach
+1795,1795,verb.social,Works
+1797,1798,noun.location,New York
+1801,1802,noun.group,public school
+1803,1803,noun.cognition,teacher
+1806,1806,noun.possession,stock
+1807,1807,noun.person,analyst
+1811,1811,noun.person,Broadway
+1812,1812,noun.communication,production
+1813,1813,noun.person,associate
+1816,1816,noun.time,June
+1818,1818,noun.time,Beginning
+1820,1821,noun.act,Stonewall riots
+1824,1824,noun.act,rights
+1826,1827,noun.location,Greenwich Village
+1829,1831,noun.location,New York City
+1835,1835,noun.person,Harvey
+1836,1836,verb.social,opens
+1840,1840,noun.artifact,shop
+1842,1843,noun.location,San Francisco
+1847,1847,verb.social,Forms
+1849,1851,noun.location,Castro Village Association
+1853,1853,verb.social,organizes
+1856,1857,noun.location,Castro Street
+1860,1860,verb.social,help
+1861,1861,verb.emotion,attract
+1862,1862,noun.group,people
+1865,1865,noun.group,businesses
+1869,1869,verb.social,Appointed
+1877,1879,noun.person,Mayor George Moscone
+1882,1882,noun.time,November
+1884,1884,verb.social,Elected
+1887,1888,noun.location,San Francisco
+1889,1891,noun.group,Board of Supervisors
+1894,1894,verb.stative,is
+1897,1897,noun.act,run
+1899,1899,noun.state,office
+1903,1903,noun.event,win
+1906,1906,noun.time,January
+1910,1911,noun.location,San Francisco
+1913,1914,noun.location,City Hall
+1917,1917,noun.time,April
+1919,1921,noun.person,Mayor George Moscone
+1922,1922,verb.communication,signs
+1924,1925,noun.location,San Francisco
+1927,1928,noun.group,civil rights
+1929,1929,noun.communication,ordinance
+1932,1932,noun.person,Harvey
+1933,1933,verb.social,introduced
+1935,1935,verb.change,making
+1939,1939,verb.cognition,discriminate
+1944,1944,verb.stative,are
+1948,1948,noun.time,June
+1950,1950,noun.person,Harvey
+1951,1951,verb.motion,rides
+1954,1957,noun.group,Gay Freedom Day Parade
+1961,1962,noun.communication,Rainbow Flag
+1963,1963,verb.contact,flies
+1966,1966,noun.group,parade
+1969,1969,noun.time,November
+1971,1972,noun.person,Harvey Milk
+1974,1976,noun.person,Mayor George Moscone
+1978,1978,verb.social,assassinated
+1981,1981,noun.location,city
+1982,1982,noun.person,supervisor
+1983,1984,noun.person,Dan White
+1988,1989,noun.group,RAINBOW FLAG
+1992,1992,noun.time,TIME
+1996,1996,noun.time,June
+1999,2000,noun.group,Harvey Milk
+2001,2001,verb.possession,has
+2003,2003,noun.cognition,idea
+2005,2005,noun.artifact,flag
+2006,2006,verb.social,makes
+2008,2009,noun.person,Gilbert Baker
+2010,2010,verb.creation,arranges
+2013,2013,noun.artifact,flag
+2015,2015,verb.stative,represent
+2018,2018,noun.act,appearance
+2024,2024,noun.act,fight
+2027,2027,noun.state,rights
+2030,2032,noun.group,Gay Freedom Company
+2036,2036,noun.person,men
+2038,2038,noun.person,women
+2043,2044,noun.location,San Francisco
+2046,2046,verb.creation,produce
+2048,2048,noun.artifact,flag
+2050,2051,noun.substance,Hot pink
+2053,2053,verb.change,removed
+2058,2059,noun.person,Gilbert Baker
+2060,2060,verb.creation,creates
+2062,2062,verb.motion,rides
+2064,2064,noun.substance,indigo
+2066,2066,verb.change,changed
+2069,2069,noun.artifact,flag
+2073,2073,noun.person,volunteers
+2076,2076,verb.change,dye
+2078,2078,verb.contact,sew
+2081,2081,noun.artifact,versions
+2084,2084,noun.artifact,flag
+2085,2085,verb.stative,has
+2087,2087,noun.communication,stripes
+2094,2094,noun.time,years
+2095,2096,verb.motion,go on
+2101,2101,verb.possession,have
+2105,2105,noun.communication,parade
+2108,2108,noun.attribute,blue
+2111,2112,noun.location,San Francisco
+2113,2114,noun.group,Gay Freedom
+2115,2115,noun.time,Day
+2116,2116,noun.location,Parade
+2117,2117,noun.group,committee
+2118,2118,verb.cognition,decides
+2120,2120,verb.consumption,use
+2123,2123,noun.artifact,flag
+2126,2126,noun.act,parade
+2128,2128,verb.social,honor
+2129,2129,noun.person,Harvey
+2132,2132,noun.group,committee
+2133,2133,verb.emotion,wants
+2136,2136,noun.attribute,number
+2138,2138,noun.communication,stripes
+2141,2141,noun.substance,turquoise
+2143,2143,verb.change,removed
+2149,2149,noun.group,people
+2150,2150,verb.communication,carry
+2154,2154,noun.quantity,foot
+2158,2158,noun.quantity,mile
+2161,2162,noun.group,Rainbow Flag
+2164,2164,noun.location,Manhattan
+2166,2168,noun.location,New York City
+2170,2170,noun.group,Pride
+2171,2171,noun.event,celebration
+2174,2177,noun.group,Guinness Book of Records
+2178,2178,verb.communication,confirms
+2181,2181,verb.stative,is
+2183,2183,noun.group,world
+2186,2186,noun.artifact,flag
+2189,2190,noun.person,Gilbert Baker
+2191,2191,verb.contact,unveils
+2195,2195,verb.creation,creation
+2201,2201,noun.artifact,flag
+2204,2207,noun.location,Key West Pride Festival
+2209,2209,noun.location,Florida
+2212,2212,noun.time,June
+2217,2218,noun.person,Supreme Court
+2219,2219,verb.communication,rules
+2222,2222,noun.group,couples
+2223,2223,verb.possession,have
+2225,2225,noun.attribute,right
+2227,2227,verb.change,get
+2235,2235,noun.artifact,buildings
+2238,2239,noun.location,United States
+2241,2241,verb.creation,lit
+2244,2244,noun.attribute,colors
+2247,2248,noun.communication,Rainbow Flag
+2253,2253,noun.communication,WEBSITES
+2255,2260,noun.group,nyclgbtsites.org queerkidstuff.com San Francisco Public Library
+2262,2263,noun.group,LGBTQIA Archives
+2267,2267,noun.communication,BOOKS
+2274,2274,noun.person,Kids
+2282,2283,noun.person,LGBT Rights
+2285,2286,noun.person,Jerome Pohlen
+2291,2292,noun.person,Jessica Herthel
+2294,2296,noun.person,Jazz Jennings Pride
+2298,2299,noun.group,Celebrating Diversity
+2301,2301,noun.group,Community
+2303,2305,noun.person,Robin Stevenson PODCAST
+2306,2309,noun.group,Making Gay History Photo
+2310,2310,noun.communication,credits
+2312,2313,noun.group,Pride Flag
+2315,2316,noun.person,Andy Selinger
+2318,2320,noun.person,Alamy Stock Photo
+2322,2323,noun.person,Harvey Milk
+2325,2325,noun.person,Photo
+2328,2330,noun.group,Alamy Stock Photo
+2332,2335,noun.group,Gay Freedom Day Parade
+2337,2338,noun.person,Robert Clay
+2340,2342,noun.person,Alamy Stock Photo
+2344,2345,noun.person,Harvey Milk
+2347,2348,noun.person,George Moscone
+2350,2351,noun.person,Robert Clay
+2353,2355,noun.group,Alamy Stock Photo
+2357,2358,noun.person,Gilbert Baker
+2360,2361,noun.group,ZUMA Press
+2363,2363,noun.group,Inc.
+2365,2367,noun.group,Alamy Stock Photo
+2374,2375,noun.person,Tim Melideo
+2377,2378,noun.person,Harvey Milk
+2380,2380,noun.communication,sign
+2382,2383,noun.group,ZUMA Press
+2385,2385,noun.group,Inc.
+2387,2389,noun.group,Alamy Stock Photo
+2391,2392,noun.group,White House
+2394,2395,noun.group,dpa picture
+2396,2396,noun.state,alliance
+2398,2400,noun.group,Alamy Stock Photo
+2402,2402,noun.group,LOVL
+2410,2410,noun.person,Blaine

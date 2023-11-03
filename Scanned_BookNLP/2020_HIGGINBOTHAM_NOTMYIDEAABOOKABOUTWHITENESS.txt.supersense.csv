@@ -1,0 +1,363 @@
+start_token,end_token,supersense_category,text
+6,6,noun.state,WHITENESS
+9,9,verb.creation,Illustrated
+11,12,noun.person,Anastasia Higginbotham
+13,13,verb.creation,Published
+17,18,noun.group,Dottir Press
+20,21,noun.location,Fifth Avenue
+22,23,noun.location,New York
+25,25,noun.location,NY
+28,28,noun.communication,Copyright
+32,33,noun.person,Anastasia Higginbotham
+36,36,verb.possession,reserved
+39,39,noun.relation,part
+42,42,noun.communication,book
+45,45,verb.contact,reproduced
+47,47,verb.consumption,used
+50,50,verb.possession,stored
+53,55,noun.artifact,transformation retrieval system
+57,57,verb.communication,transmitted
+60,60,noun.cognition,form
+70,70,verb.creation,photocopying
+72,72,noun.artifact,recording
+80,80,noun.communication,permission
+82,83,noun.group,Dottir Press
+88,88,noun.state,case
+91,91,noun.communication,quotations
+92,92,verb.communication,embodied
+95,95,noun.communication,articles
+97,97,noun.communication,reviews
+103,103,noun.communication,printing
+105,105,noun.time,August
+107,107,noun.communication,Illustration
+109,109,noun.act,design
+111,112,noun.person,Anastasia Higginbotham
+115,116,noun.person,Alexa Hoyer
+119,120,noun.person,Drew Stevens
+122,122,noun.communication,thanks
+124,125,noun.person,Jennifer Baumgardner
+127,128,noun.person,Drew Stevens
+130,131,noun.person,Abraham Higginbotham
+133,134,noun.person,Lisa Daniels
+137,138,noun.person,Jon Luongo
+140,140,noun.person,Pencil
+141,141,verb.creation,drawing
+143,143,noun.communication,page
+146,148,noun.person,Sabatino Luongo Higginbotham
+151,151,noun.communication,editing
+153,155,noun.person,Lionel Luongo Higginbotham
+157,159,noun.group,Library of Congress
+166,166,verb.stative,is
+170,170,noun.communication,title
+182,182,verb.creation,Printed
+185,186,noun.location,United States
+188,188,noun.location,America
+190,193,noun.location,Worzalla Serious Ben Howort
+194,199,noun.person,Loretta Ross Anyanwu Uwa Randy Clancy
+200,200,noun.state,problem
+207,207,noun.group,people
+208,208,verb.possession,have
+216,216,verb.change,start
+217,218,verb.cognition,thinking about
+221,223,noun.person,Noleca Anderson Radway
+224,224,verb.creation,do
+227,227,verb.communication,added
+230,230,verb.contact,Take
+238,238,noun.communication,words
+239,239,verb.social,landed
+245,245,noun.communication,command
+247,249,noun.person,Rev. angel Kyodo
+250,250,noun.person,williams
+252,253,verb.communication,called upon
+255,255,verb.social,engage
+257,257,noun.attribute,whiteness
+261,261,verb.communication,dismantle
+262,262,noun.person,white
+263,263,noun.state,supremacy
+266,266,verb.change,made
+268,268,noun.communication,booK
+273,273,noun.person,sons
+275,275,noun.act,help
+283,283,noun.communication,interview
+285,286,noun.person,Toni Morrison
+287,287,verb.communication,said
+289,289,noun.cognition,racism
+292,292,noun.person,teachers
+298,298,verb.communication,dedicated
+301,303,noun.group,Brooklyn Free School
+307,307,noun.group,family
+308,308,verb.stative,was
+310,310,noun.communication,thanks
+317,317,verb.social,try
+319,319,verb.perception,hide
+321,321,noun.artifact,things
+323,323,noun.person,Kids
+344,344,verb.stative,'re
+349,349,verb.stative,is
+353,353,noun.body,hands
+359,359,noun.person,policeman
+360,360,verb.communication,Screaming
+366,366,verb.emotion,want
+368,368,verb.perception,bury
+370,370,noun.communication,truth
+377,377,verb.emotion,worry
+382,382,verb.stative,’re
+385,385,verb.cognition,Understand
+387,387,noun.communication,No-
+389,389,noun.group,family
+390,390,verb.stative,is
+398,398,verb.perception,see
+399,399,noun.attribute,color
+405,405,verb.cognition,Know
+407,407,noun.attribute,Color
+408,408,verb.change,matters
+410,410,noun.person,Skin
+411,411,noun.attribute,color
+412,412,verb.change,makes
+414,414,noun.event,difference
+418,418,noun.object,world
+419,419,verb.cognition,sees
+425,425,verb.perception,see
+427,427,noun.object,world
+431,431,verb.emotion,want
+433,433,verb.contact,bring
+435,435,noun.person,aunt
+437,437,noun.possession,gift
+442,442,verb.possession,take
+444,444,noun.time,minute
+449,449,verb.change,makes
+451,451,noun.event,difference
+456,456,noun.event,trouble
+457,457,verb.perception,seems
+459,459,verb.possession,find
+462,462,verb.social,let
+467,467,noun.artifact,stores
+470,470,noun.artifact,cars
+473,473,noun.artifact,sidewalks
+476,476,noun.group,School
+479,479,noun.body,skin
+480,480,noun.attribute,color
+481,481,verb.change,affects
+484,484,noun.event,experiences
+487,487,verb.stative,including
+491,491,noun.group,neighborhoods
+492,492,verb.emotion,welcome
+498,498,verb.motion,got
+509,509,noun.communication,protests
+518,518,noun.artifact,road
+520,520,noun.person,Marchers
+521,521,verb.change,came
+523,523,verb.communication,demand
+524,524,noun.attribute,justice
+532,532,verb.communication,demand
+534,534,noun.state,end
+536,536,noun.act,killings
+539,539,noun.group,nation
+541,541,noun.relation,part
+545,545,noun.cognition,pattern
+548,548,verb.possession,claimed
+550,550,noun.state,lives
+553,554,noun.person,young men
+556,556,noun.attribute,color
+558,558,noun.person,Marchers
+559,559,verb.communication,referenced
+561,561,noun.person,victims
+564,564,noun.communication,video
+565,565,verb.communication,taken
+568,568,noun.person,bystander
+595,596,noun.person,R. J?*7
+602,603,verb.social,step up
+604,604,verb.cognition,Understanding
+606,606,noun.communication,truth
+607,607,verb.change,takes
+612,612,noun.communication,truth
+616,616,noun.group,people
+620,620,noun.group,family
+628,628,noun.group,people
+630,630,verb.emotion,love
+632,632,verb.body,behave
+634,634,noun.act,ways
+636,636,verb.communication,show
+639,639,verb.cognition,think
+641,641,verb.stative,are
+647,647,noun.cognition,Racism
+648,648,verb.stative,was
+651,651,noun.cognition,idea
+658,658,verb.communication,defend
+665,665,verb.communication,bring
+667,667,noun.feeling,curiousity
+669,669,verb.cognition,learn
+673,673,verb.cognition,see
+681,682,noun.location,United States
+684,684,noun.location,America
+687,687,noun.group,people
+689,689,verb.social,committed
+691,691,noun.act,crimes
+694,694,noun.group,people
+698,698,noun.time,years
+704,704,noun.act,step
+707,707,noun.act,way
+709,709,noun.group,people
+711,711,verb.emotion,love
+712,712,noun.attribute,justice
+714,714,verb.emotion,love
+719,720,verb.competition,fighting back
+725,725,noun.group,people
+726,726,verb.social,did
+727,727,noun.act,things
+732,732,verb.social,done
+736,736,noun.person,B^^W^'^w^
+746,746,noun.person,W$$w
+764,764,noun.group,people
+765,765,verb.social,joined
+767,767,noun.person,leaders
+770,770,noun.act,liberation
+774,774,noun.cognition,Racism
+777,777,verb.change,happening
+780,780,verb.stative,keeps
+781,781,verb.change,changing
+783,783,verb.stative,keeps
+784,784,verb.stative,being
+792,792,verb.stative,being
+798,798,noun.time,moment
+801,801,verb.possession,have
+803,803,noun.state,chance
+805,805,verb.emotion,care
+810,810,verb.communication,connect
+814,814,verb.social,connecting
+815,815,verb.communication,means
+816,816,verb.contact,opening
+819,819,noun.act,opening
+821,821,verb.perception,feels
+826,826,verb.contact,breaking
+830,830,verb.cognition,know
+833,834,verb.change,going on
+839,840,verb.communication,talking about
+847,847,verb.communication,teach
+850,850,noun.communication,history
+855,855,verb.perception,see
+856,856,noun.attribute,color
+859,859,verb.cognition,see
+870,870,verb.perception,hide
+880,880,verb.cognition,KNOW
+888,888,noun.person,officer
+889,889,verb.social,did
+896,896,noun.cognition,instincts
+902,902,noun.attribute,justice
+903,903,verb.stative,is
+911,911,verb.stative,'re
+921,921,verb.perception,see
+923,923,noun.location,playground
+927,927,verb.possession,get
+929,929,noun.location,air
+934,934,noun.time,history
+947,947,verb.communication,say
+953,955,noun.person,Kids fot w-
+965,966,noun.person,eonseoyences o^re
+974,974,noun.cognition,truth
+975,975,verb.stative,is
+999,999,noun.person,friends
+1001,1001,noun.person,neighbors
+1003,1003,verb.emotion,loved
+1009,1009,noun.artifact,cell
+1011,1011,noun.person,hamans
+1025,1025,verb.social,revoked
+1031,1031,noun.motive,reason
+1036,1036,verb.stative,belonged
+1040,1040,verb.stative,was
+1043,1043,noun.person,librarian
+1045,1045,verb.competition,fought
+1049,1049,noun.person,Juliette
+1051,1051,verb.motion,riding
+1053,1053,noun.artifact,bus
+1057,1057,noun.person,driver
+1062,1062,verb.possession,collected
+1064,1064,noun.communication,fare
+1068,1068,noun.person,Juliette
+1070,1070,verb.contact,pull
+1072,1072,noun.event,emergency
+1073,1073,noun.artifact,cord
+1075,1075,verb.motion,raise
+1082,1082,noun.act,hockey
+1084,1084,noun.artifact,sticks
+1087,1087,noun.person,driver
+1088,1088,verb.creation,did
+1091,1091,noun.group,community
+1094,1094,verb.emotion,mess
+1095,1095,noun.person,Born
+1097,1097,verb.change,Died
+1103,1103,verb.communication,refuse
+1105,1106,verb.motion,pick up
+1109,1109,noun.artifact,bus
+1110,1110,noun.person,rider
+1121,1121,noun.location,Montgomery
+1123,1123,noun.location,Alabama
+1127,1127,verb.stative,was
+1129,1129,noun.Tops,act
+1131,1131,noun.feeling,love
+1140,1140,verb.social,did
+1142,1142,verb.communication,called
+1144,1144,verb.change,disrupting
+1146,1146,noun.state,supremacy
+1161,1161,noun.group,people
+1164,1164,verb.stative,be
+1168,1168,noun.time,moment
+1169,1169,verb.stative,are
+1170,1170,noun.person,nob
+1174,1174,noun.person,hurbs
+1176,1177,noun.person,Wribe bheir
+1178,1178,noun.communication,names
+1181,1181,verb.communication,Draw
+1182,1182,noun.person,bhem
+1184,1184,noun.person,picbure
+1187,1187,noun.person,whab
+1195,1195,verb.emotion,feel
+1208,1208,noun.artifact,bhis
+1209,1209,noun.substance,paper
+1210,1210,verb.change,absorbs
+1211,1211,noun.quantity,bears
+1216,1216,verb.social,ib’sjoy
+1217,1217,noun.person,bhab
+1219,1219,verb.cognition,feel
+1226,1226,noun.communication,pages
+1229,1229,noun.state,supremacy
+1230,1230,verb.stative,is
+1232,1232,noun.cognition,choice
+1234,1234,verb.stative,followed
+1239,1239,noun.event,...
+1243,1243,verb.stative,is
+1245,1245,noun.act,way
+1247,1247,verb.stative,being
+1254,1254,verb.contact,plant
+1255,1255,noun.state,Justice
+1259,1259,verb.stative,are
+1261,1261,noun.cognition,ideas
+1263,1263,verb.stative,help
+1265,1265,verb.cognition,connect
+1269,1269,noun.cognition,choices
+1272,1272,noun.attribute,justice
+1274,1274,verb.emotion,want
+1276,1276,verb.change,grow
+1279,1279,noun.group,world
+1283,1283,noun.communication,hisbory
+1284,1284,verb.stative,is
+1285,1286,noun.person,nob wribben
+1292,1294,noun.person,wanb ib bo
+1295,1295,verb.communication,say
+1297,1297,verb.stative,is
+1299,1299,noun.location,place
+1303,1303,verb.communication,wribe
+1305,1305,verb.creation,draw
+1307,1307,verb.creation,collage
+1310,1310,verb.creation,envision
+1312,1312,noun.communication,answer
+1321,1321,verb.change,make
+1322,1322,noun.communication,hisbory
+1326,1326,noun.cognition,choices
+1331,1331,verb.creation,make
+1341,1341,verb.change,make
+1342,1342,noun.communication,hisbory
+1344,1344,noun.person,parb
+1352,1352,noun.attribute,ways
+1354,1354,verb.motion,move
+1355,1355,noun.person,bogebher

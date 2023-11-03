@@ -1,0 +1,329 @@
+COREF,start_token,end_token,prop,cat,text
+47,4,5,PROP,PER,Harvey Milk
+48,12,13,PROP,PER,Rob Sanders
+49,16,17,PROP,PER,Steven Salerno
+1,21,22,PROP,GPE,New York
+0,26,26,PRON,PER,my
+63,26,27,NOM,PER,my uncle
+50,28,29,PROP,PER,Jack Sanders
+48,36,37,PROP,PER,Rob Sanders
+49,47,48,PROP,PER,Steven Salerno
+2,55,57,PROP,LOC,the United States
+64,65,71,NOM,ORG,a division of Penguin Random House LLC
+3,68,71,PROP,FAC,Penguin Random House LLC
+1,73,74,PROP,GPE,New York
+4,76,77,PROP,LOC,Random House
+65,91,91,PRON,PER,us
+66,99,99,NOM,PER,librarians
+65,109,109,PRON,PER,us
+5,111,114,PROP,FAC,RHTeachersLibrarians.com Library of Congress
+48,123,123,PROP,PER,Sanders
+48,125,125,PROP,PER,Rob
+67,127,127,NOM,PER,author
+49,130,130,PROP,PER,Salerno
+49,132,132,PROP,PER,Steven
+68,134,134,NOM,PER,illustrator
+47,143,144,PROP,PER,Harvey Milk
+48,151,152,PROP,PER,Rob Sanders
+49,156,157,PROP,PER,Steven Salerno
+4,168,169,PROP,FAC,Random House
+69,199,199,PRON,PER,he
+47,235,235,PROP,PER,Harvey
+7,244,244,PROP,GPE,California
+8,246,247,PROP,GPE,San Francisco
+7,259,259,PROP,GPE,California
+8,261,262,PROP,GPE,San Francisco
+70,272,273,NOM,GPE,United States
+70,282,283,NOM,GPE,United States
+9,292,294,PROP,FAC,LCC F869.S353 M54569
+51,313,316,PROP,PER,Nicole de las Heras
+10,319,319,PROP,GPE,CHINA
+72,343,343,PRON,PER,You
+73,347,347,PRON,PER,them
+47,365,366,PROP,PER,Harvey Milk
+74,368,370,NOM,PER,an ordinary man
+47,373,373,PRON,PER,he
+47,385,385,PROP,PER,Harvey
+75,388,388,NOM,PER,everyone
+76,391,392,NOM,PER,gay people
+47,398,398,PRON,PER,He
+47,401,401,PRON,PER,he
+47,403,403,PRON,PER,his
+77,403,404,NOM,PER,his friends
+78,409,410,NOM,PER,everyone else
+47,412,412,PRON,PER,He
+79,418,418,NOM,PER,people
+79,427,427,PRON,PER,they
+47,431,431,PRON,PER,his
+1,432,433,PROP,GPE,New York
+47,436,436,PROP,PER,Harvey
+75,439,439,NOM,PER,everyone
+47,441,441,PRON,PER,his
+47,444,444,PRON,PER,His
+47,448,448,PRON,PER,His
+81,456,457,NOM,PER,Some people
+82,460,461,NOM,PER,A few
+83,464,464,NOM,PER,Most
+47,469,469,PROP,PER,Harvey
+47,474,474,PRON,PER,his
+47,482,482,PRON,PER,He
+47,500,501,PROP,PER,Harvey Milk
+47,510,510,PRON,PER,he
+84,512,528,NOM,PER,one of the first openly gay people to be elected to political office in the United States
+85,514,528,NOM,PER,the first openly gay people to be elected to political office in the United States
+86,526,528,NOM,GPE,the United States
+47,530,530,PROP,PER,Harvey
+47,532,532,PRON,PER,his
+77,532,533,NOM,PER,his friends
+47,552,552,PROP,PER,Harvey
+47,560,560,PRON,PER,he
+88,563,563,PRON,PER,We
+88,570,570,PRON,PER,we
+88,574,574,PRON,PER,we
+79,587,587,NOM,PER,people
+79,589,589,PRON,PER,they
+90,593,594,NOM,PER,a community
+79,599,599,NOM,PER,people
+47,605,605,PROP,PER,Harvey
+52,613,614,PROP,PER,Gilbert Baker
+47,616,616,PROP,PER,Harvey
+52,619,619,PROP,PER,Gilbert
+88,623,623,PRON,PER,We
+92,629,629,NOM,PER,Volunteers
+52,633,633,PROP,PER,Gilbert
+92,641,641,PRON,PER,they
+92,654,654,PRON,PER,They
+47,667,667,PROP,PER,Harvey
+52,669,669,PROP,PER,Gilbert
+93,672,674,NOM,PER,the other activists
+47,689,689,PROP,PER,Harvey
+8,712,713,PROP,GPE,San Francisco
+94,740,747,NOM,PER,the men and women who walked behind it
+47,753,753,PROP,PER,Harvey
+95,755,756,NOM,PER,the people
+92,761,761,PRON,PER,They
+78,767,768,NOM,PER,everyone else
+92,770,770,PRON,PER,They
+92,777,777,PRON,PER,they
+92,780,780,PRON,PER,They
+47,789,789,PROP,PER,Harvey
+47,799,799,PRON,PER,himself
+47,801,801,PRON,PER,He
+97,803,803,NOM,PER,others
+47,823,823,PROP,PER,Harvey
+98,825,829,NOM,PER,the mayor of San Francisco
+8,828,829,PROP,GPE,San Francisco
+53,831,832,PROP,PER,George Moscone
+92,837,837,PRON,PER,Their
+99,842,859,NOM,PER,"a man who did not think like Harvey , or feel like him , or love like him"
+47,849,849,PROP,PER,Harvey
+47,854,854,PRON,PER,him
+47,859,859,PRON,PER,him
+100,875,879,NOM,PER,thousands and thousands of people
+101,890,894,NOM,FAC,the streets of San Francisco
+8,893,894,PROP,GPE,San Francisco
+102,899,899,NOM,LOC,hills
+103,902,903,NOM,FAC,city buildings
+47,924,924,PROP,PER,Harvey
+104,974,975,NOM,PER,more people
+104,983,983,PRON,PER,their
+104,987,987,PRON,PER,they
+104,993,993,PRON,PER,They
+105,999,999,NOM,PER,Women
+106,1001,1001,NOM,PER,men
+11,1020,1022,PROP,GPE,New York City
+107,1028,1029,NOM,FAC,the streets
+108,1034,1034,NOM,FAC,avenues
+109,1036,1036,NOM,FAC,boulevards
+103,1039,1040,NOM,FAC,city buildings
+95,1042,1043,NOM,PER,The people
+95,1047,1047,PRON,PER,They
+78,1053,1054,NOM,PER,everyone else
+95,1056,1056,PRON,PER,They
+95,1063,1063,PRON,PER,they
+95,1066,1066,PRON,PER,They
+95,1070,1070,PRON,PER,They
+95,1074,1074,PRON,PER,They
+52,1083,1084,PROP,PER,Gilbert Baker
+0,1099,1099,PRON,PER,I
+12,1136,1137,PROP,FAC,Halsted Street
+13,1139,1139,PROP,GPE,Chicago
+14,1145,1153,PROP,FAC,the Museum of Modern Art in New York City
+11,1151,1153,PROP,GPE,New York City
+113,1163,1164,NOM,GPE,other countries
+15,1167,1167,PROP,GPE,Brazil
+16,1169,1169,PROP,GPE,England
+17,1171,1171,PROP,GPE,Israel
+18,1173,1173,PROP,GPE,Russia
+19,1175,1175,PROP,GPE,Singapore
+20,1178,1178,PROP,GPE,Turkey
+114,1186,1186,NOM,FAC,farms
+115,1189,1189,NOM,FAC,suburbs
+116,1193,1193,NOM,GPE,cities
+117,1200,1201,NOM,FAC,public buildings
+118,1203,1203,NOM,FAC,hotels
+119,1205,1206,NOM,FAC,shop restaurants
+120,1208,1208,NOM,FAC,churches
+121,1211,1211,NOM,FAC,homes
+21,1222,1224,PROP,FAC,the White House
+47,1243,1243,PROP,PER,Harvey
+122,1250,1250,PRON,PER,us
+123,1283,1283,NOM,PER,homosexuals
+54,1285,1286,PROP,PER,Adolf Hitler
+124,1292,1293,NOM,PER,gay men
+124,1298,1298,PRON,PER,them
+124,1300,1300,PRON,PER,they
+125,1304,1305,NOM,FAC,concentration camps
+47,1307,1308,PROP,PER,Harvey Milk
+126,1311,1315,NOM,PER,the gay and lesbian community
+52,1338,1339,PROP,PER,Gilbert Baker
+127,1341,1344,NOM,PER,a group of volunteers
+47,1397,1398,PROP,PER,Harvey Milk
+22,1402,1402,PROP,GPE,Woodmere
+1,1404,1405,PROP,GPE,New York
+47,1413,1413,PRON,PER,He
+23,1419,1422,PROP,FAC,New York State College
+24,1420,1420,PROP,GPE,York
+47,1426,1426,PRON,PER,He
+128,1439,1443,NOM,PER,a production associate on Broadway
+47,1445,1445,PRON,PER,He
+8,1448,1449,PROP,GPE,San Francisco
+129,1454,1456,NOM,FAC,a camera shop
+47,1459,1459,PRON,PER,he
+8,1465,1466,PROP,GPE,San Francisco
+25,1467,1469,PROP,ORG,Board of Supervisors
+47,1473,1474,PROP,PER,Harvey Milk
+130,1476,1488,NOM,PER,one of the country ’s first openly gay people elected to public office
+131,1478,1488,NOM,PER,the country ’s first openly gay people elected to public office
+47,1490,1490,PRON,PER,He
+52,1492,1493,PROP,PER,Gilbert Baker
+47,1506,1506,PRON,PER,he
+52,1511,1511,PROP,PER,Gilbert
+47,1517,1518,PROP,PER,Harvey Milk
+132,1524,1526,NOM,PER,Mayor George Moscone
+53,1525,1526,PROP,PER,George Moscone
+55,1529,1530,PROP,PER,Dan White
+52,1547,1548,PROP,PER,Gilbert Baker
+26,1552,1552,PROP,GPE,Chanute
+27,1554,1554,PROP,GPE,Kansas
+52,1559,1559,PRON,PER,His
+133,1559,1560,NOM,PER,His grandmother
+134,1562,1563,NOM,PER,a men
+135,1562,1566,NOM,FAC,a men ’s clothing store
+52,1569,1569,PRON,PER,he
+52,1576,1576,PRON,PER,he
+136,1581,1582,NOM,PER,an adult
+52,1584,1584,PROP,PER,Gilbert
+137,1586,1587,NOM,ORG,the army
+52,1590,1590,PRON,PER,he
+8,1594,1595,PROP,GPE,San Francisco
+52,1598,1598,PRON,PER,he
+52,1602,1602,PRON,PER,his
+138,1602,1604,NOM,FAC,his new home
+52,1606,1606,PRON,PER,he
+47,1612,1613,PROP,PER,Harvey Milk
+52,1615,1615,PRON,PER,him
+139,1621,1623,NOM,PER,the gay community
+52,1629,1629,PROP,PER,Gilbert
+52,1635,1635,PRON,PER,He
+52,1651,1651,PROP,PER,Gilbert
+140,1655,1659,NOM,PER,a gay - rights activist
+52,1661,1661,PRON,PER,his
+141,1681,1689,NOM,ORG,the Supreme Court of the United States of America
+142,1692,1692,NOM,PER,gays
+143,1694,1694,NOM,PER,lesbians
+144,1702,1702,PRON,PER,They
+144,1710,1710,PRON,PER,they
+47,1713,1714,PROP,PER,HARVEY MILK
+47,1722,1724,PROP,PER,Harvey Bernard Milk
+22,1728,1728,PROP,GPE,Woodmere
+1,1730,1731,PROP,GPE,New York
+145,1736,1737,NOM,ORG,high school
+1,1743,1744,PROP,GPE,New York
+28,1745,1746,PROP,ORG,State College
+29,1760,1762,PROP,ORG,the U.S. Navy
+52,1764,1764,PRON,PER,He
+146,1766,1774,NOM,PER,a deep - sea diver on the U.S.S. Kittiwake
+30,1774,1774,PROP,GPE,Kittiwake
+147,1781,1790,NOM,PER,a high school math and history teacher and basketball coach
+1,1797,1798,PROP,GPE,New York
+148,1800,1803,NOM,PER,a public school teacher
+149,1805,1807,NOM,PER,a stock analyst
+150,1810,1813,NOM,PER,a Broadway production associate
+31,1826,1827,PROP,GPE,Greenwich Village
+11,1829,1831,PROP,GPE,New York City
+47,1835,1835,PROP,PER,Harvey
+151,1837,1840,NOM,FAC,the Castro Camera shop
+8,1842,1843,PROP,GPE,San Francisco
+152,1849,1851,NOM,ORG,Castro Village Association
+79,1862,1862,NOM,PER,people
+154,1864,1865,NOM,GPE,local businesses
+0,1867,1867,PRON,PER,i
+32,1871,1875,PROP,FAC,the Board of Permit Appeals
+53,1878,1879,PROP,PER,George Moscone
+33,1886,1891,PROP,FAC,the San Francisco Board of Supervisors
+8,1887,1888,PROP,GPE,San Francisco
+47,1895,1895,PRON,PER,his
+47,1901,1901,PRON,PER,his
+8,1910,1911,PROP,GPE,San Francisco
+155,1910,1914,NOM,FAC,San Francisco ’s City Hall
+53,1919,1921,PROP,PER,Mayor George Moscone
+8,1924,1925,PROP,GPE,San Francisco
+47,1932,1932,PROP,PER,Harvey
+156,1941,1941,NOM,PER,someone
+156,1943,1943,PRON,PER,they
+47,1950,1950,PROP,PER,Harvey
+47,1971,1972,PROP,PER,Harvey Milk
+53,1974,1976,PROP,PER,Mayor George Moscone
+34,1987,1989,PROP,ORG,THE RAINBOW FLAG
+47,1999,2000,PROP,ORG,Harvey Milk
+47,2007,2007,PRON,PER,its
+52,2008,2009,PROP,PER,Gilbert Baker
+157,2029,2032,NOM,ORG,the Gay Freedom Company
+158,2034,2038,NOM,PER,mass- gay men and women
+124,2035,2036,NOM,PER,gay men
+105,2038,2038,NOM,PER,women
+8,2043,2044,PROP,GPE,San Francisco
+52,2058,2059,PROP,PER,Gilbert Baker
+47,2061,2061,PROP,PER,Harvey
+36,2111,2111,PROP,GPE,San
+161,2112,2117,NOM,PER,Francisco Gay Freedom Day Parade committee
+161,2125,2125,PRON,PER,its
+162,2125,2126,NOM,FAC,its parade
+47,2129,2129,PROP,PER,Harvey
+163,2131,2132,NOM,PER,The committee
+0,2145,2145,PRON,PER,I
+164,2147,2149,NOM,PER,Ten thousand people
+37,2164,2164,PROP,GPE,Manhattan
+165,2166,2168,NOM,GPE,New York City
+52,2189,2190,PROP,PER,Gilbert Baker
+38,2209,2209,PROP,GPE,Florida
+166,2221,2222,NOM,PER,gay couples
+167,2234,2239,NOM,FAC,other buildings across the United States
+2,2237,2239,PROP,LOC,the United States
+39,2257,2260,PROP,FAC,San Francisco Public Library
+40,2262,2263,PROP,FAC,LGBTQIA Archives
+168,2267,2274,NOM,PER,BOOKS Gay & Lesbian . History for Kids
+56,2285,2286,PROP,PER,Jerome Pohlen
+57,2291,2291,PROP,PER,Jessica
+58,2294,2296,PROP,PER,Jazz Jennings Pride
+59,2303,2304,PROP,PER,Robin Stevenson
+60,2315,2316,PROP,PER,Andy Selinger
+61,2318,2319,PROP,PER,Alamy Stock
+47,2322,2323,PROP,PER,Harvey Milk
+41,2328,2330,PROP,FAC,Alamy Stock Photo
+42,2332,2335,PROP,FAC,Gay Freedom Day Parade
+61,2337,2341,PROP,PER,Robert Clay / Alamy Stock
+47,2344,2345,PROP,PER,Harvey Milk
+53,2347,2348,PROP,PER,George Moscone
+61,2350,2351,PROP,PER,Robert Clay
+61,2353,2354,PROP,FAC,Alamy Stock
+52,2357,2358,PROP,PER,Gilbert Baker
+61,2365,2366,PROP,PER,Alamy Stock
+169,2371,2372,NOM,PER,a Family
+62,2374,2375,PROP,PER,Tim Melideo
+44,2377,2379,PROP,FAC,Harvey Milk Street
+45,2382,2383,PROP,FAC,ZUMA Press
+61,2387,2388,PROP,FAC,Alamy Stock
+21,2391,2392,PROP,FAC,White House
+61,2398,2399,PROP,FAC,Alamy Stock

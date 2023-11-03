@@ -1,0 +1,879 @@
+COREF,start_token,end_token,prop,cat,text
+51,4,5,PROP,PER,Sylvia Mendez
+51,7,7,PRON,PER,Her
+97,7,8,NOM,PER,Her Family
+52,13,19,PROP,PER,DUNCAN TONATIUH ABRAMS BOOKS FOR YOUNG READERS
+1,21,22,PROP,GPE,NEW YORK
+51,26,26,PROP,PER,SYLVIA
+51,29,29,PRON,PER,HER
+51,39,39,PRON,PER,Her
+51,51,51,PRON,PER,her
+98,55,57,NOM,FAC,the Westminster school
+99,59,60,NOM,FAC,The halls
+100,64,64,NOM,PER,students
+51,66,66,PRON,PER,She
+51,70,70,PRON,PER,her
+101,70,71,NOM,FAC,her locker
+102,73,76,NOM,PER,a young white boy
+51,79,79,PRON,PER,her
+195,87,89,NOM,FAC,the Mexican school
+51,91,91,PRON,PER,You
+196,95,95,NOM,FAC,here
+51,105,105,PROP,PER,Sylvia
+51,111,111,PRON,PER,herself
+51,113,113,PRON,PER,her
+51,116,116,PRON,PER,She
+51,118,118,PRON,PER,her
+99,124,125,NOM,FAC,the halls
+51,128,128,PRON,PER,she
+104,130,130,NOM,FAC,home
+51,134,134,PRON,PER,she
+51,136,136,PRON,PER,her
+105,136,137,NOM,PER,her mom
+53,139,139,PROP,PER,Felicitas
+51,146,146,PRON,PER,I
+197,153,154,NOM,FAC,that school
+198,157,158,NOM,PER,The kids
+51,164,164,PROP,PER,Sylvia
+51,168,168,PRON,PER,her
+106,168,169,NOM,PER,her mother
+51,183,183,PRON,PER,you
+199,188,188,PRON,PER,we
+51,203,203,PROP,PER,Sylvia
+51,205,205,PRON,PER,her
+107,205,206,NOM,PER,her brothers
+54,208,208,PROP,PER,Jerome
+55,210,211,PROP,PER,Gonzalo Jr.
+107,214,214,PRON,PER,their
+108,214,215,NOM,PER,their parents
+109,219,224,NOM,GPE,the crowded city of Santa Ana
+2,223,224,PROP,GPE,Santa Ana
+3,226,226,PROP,GPE,California
+110,229,233,NOM,FAC,a farm in nearby Westminster
+4,233,233,PROP,GPE,Westminster
+51,235,235,PRON,PER,Her
+111,235,236,NOM,PER,Her father
+56,238,239,PROP,PER,Gonzalo Mendez
+112,246,249,NOM,PER,a field - worker
+111,257,257,PRON,PER,he
+113,260,261,NOM,FAC,a farm
+111,263,263,PRON,PER,He
+114,268,269,NOM,PER,the boss
+107,272,272,PRON,PER,their
+115,272,274,NOM,FAC,their new farm
+107,275,275,PRON,PER,they
+57,303,304,PROP,PER,Aunt Soledad
+51,306,306,PROP,PER,Sylvia
+51,308,308,PRON,PER,her
+107,308,309,NOM,PER,her brothers
+107,311,311,PRON,PER,their
+117,311,312,NOM,PER,their cousins
+58,314,314,PROP,PER,Alice
+5,316,316,PROP,GPE,Virginia
+118,319,325,NOM,FAC,the local public school on 17th Street
+6,324,325,PROP,FAC,17th Street
+107,327,327,PRON,PER,they
+51,331,331,PROP,PER,Sylvia
+56,339,339,PROP,PER,Gonzalo
+54,347,347,PROP,PER,Jerome
+119,351,353,NOM,FAC,a handsome building
+51,356,356,PROP,PER,Sylvia
+107,358,358,PRON,PER,they
+120,361,363,NOM,FAC,the parking lot
+121,368,369,NOM,FAC,the street
+122,373,374,NOM,FAC,the school
+123,378,386,NOM,FAC,a playground with monkey bars and a red swing
+107,389,389,PRON,PER,they
+122,392,393,NOM,FAC,the school
+107,395,395,PRON,PER,they
+125,398,399,NOM,FAC,the hallways
+126,408,408,PRON,PER,I
+200,413,414,NOM,PER,the children
+201,416,416,NOM,FAC,school/
+57,419,420,PROP,PER,Aunt Soledad
+107,422,422,PRON,PER,they
+202,425,426,NOM,PER,the principal
+203,425,428,NOM,FAC,the principal ’s office
+204,430,431,NOM,PER,The secretary
+57,433,434,PROP,PER,Aunt Soledad
+58,441,441,PROP,PER,Alice
+5,445,445,PROP,GPE,Virginia
+204,448,448,PRON,PER,she
+204,452,452,PRON,PER,her
+51,456,456,PROP,PER,Sylvia
+51,458,458,PRON,PER,her
+107,458,459,NOM,PER,her brothers
+126,462,462,PRON,PER,They
+127,466,467,NOM,FAC,this school
+204,471,472,NOM,PER,the secretary
+126,475,475,PRON,PER,They
+195,479,481,NOM,FAC,the Mexican school
+126,486,486,PRON,PER,I
+195,491,493,NOM,FAC,the Mexican school
+51,495,495,PROP,PER,Sylvia
+51,498,498,PRON,PER,She
+51,503,503,PRON,PER,she
+51,507,507,PRON,PER,She
+51,512,512,PRON,PER,Her
+111,512,513,NOM,PER,Her father
+7,516,516,PROP,GPE,Mexico
+111,519,519,PRON,PER,he
+209,522,524,NOM,PER,a U.S. citizen
+51,526,526,PRON,PER,Her
+106,526,527,NOM,PER,Her mother
+8,530,531,PROP,GPE,Puerto Rico
+211,535,537,NOM,GPE,a U.S. territory
+57,539,540,PROP,PER,Aunt Soledad
+129,546,546,PRON,PER,we
+130,550,553,NOM,LOC,this part of town
+131,553,553,NOM,GPE,town
+51,556,556,PROP,PER,Sylvia
+51,559,559,PRON,PER,her
+212,559,560,NOM,PER,her cousins
+212,562,562,PRON,PER,They
+212,572,572,PRON,PER,their
+59,576,576,PROP,PER,Vidaurri
+212,578,578,PRON,PER,their
+213,578,579,NOM,PER,their father
+51,589,589,PRON,PER,she
+51,592,592,PRON,PER,her
+107,592,593,NOM,PER,her brothers
+51,597,597,PRON,PER,her
+51,604,604,PRON,PER,She
+215,610,610,PRON,PER,we
+215,619,619,PRON,PER,our
+51,623,623,PROP,PER,Mendez
+204,632,633,NOM,PER,the secretary
+132,636,638,NOM,PER,The Mendez children
+195,643,645,NOM,FAC,the Mexican school
+0,649,649,PRON,PER,I
+134,654,656,NOM,PER,any of them
+132,656,656,PRON,PER,them
+57,662,663,PROP,PER,Aunt Soledad
+57,666,666,PRON,PER,she
+217,670,671,NOM,FAC,the office
+51,674,674,PROP,PER,Sylvia
+218,676,678,NOM,PER,the other children
+57,680,680,PRON,PER,her
+132,683,683,PRON,PER,they
+104,685,685,NOM,FAC,home
+57,687,688,PROP,PER,Aunt Soledad
+60,690,690,PROP,PER,Sylvias
+220,690,691,NOM,PER,Sylvias father
+61,696,697,PROP,PER,Mr. Mendez
+57,699,699,PRON,PER,her
+61,711,711,PRON,PER,He
+61,718,718,PRON,PER,He
+221,720,721,NOM,PER,a businessman
+61,724,724,PRON,PER,he
+222,730,730,NOM,PER,people
+61,736,737,PROP,PER,Mr. Mendez
+62,740,741,PROP,PER,Mr. Harris
+223,743,748,NOM,PER,the superintendent of the Westminster school
+98,746,748,NOM,FAC,the Westminster school
+61,750,751,PROP,PER,Mr. Mendez
+0,754,754,PRON,PER,his
+225,754,755,NOM,PER,his family
+226,760,762,NOM,FAC,a nearby farm
+135,765,767,NOM,FAC,The public school
+136,765,770,NOM,FAC,The public school on 17th Street
+6,769,770,PROP,FAC,17th Street
+137,772,777,NOM,FAC,the closest school to our house
+138,776,776,PRON,PER,our
+139,776,777,NOM,FAC,our house
+0,780,780,PRON,PER,my
+140,780,781,NOM,PER,my children
+136,784,784,PRON,FAC,it
+0,788,788,PRON,PER,Your
+141,788,789,NOM,PER,Your children
+195,794,796,NOM,FAC,the Mexican school
+62,800,801,PROP,PER,Mr. Harris
+61,810,811,PROP,PER,Mr. Mendez
+61,813,813,PRON,PER,He
+61,836,837,PROP,PER,Mr. Mendez
+63,840,841,PROP,PER,Mr. Atkinson
+227,843,845,NOM,PER,the county superintendent
+62,847,848,PROP,PER,Mr. Harris
+228,847,850,NOM,PER,Mr. Harris ’s superior
+229,855,857,NOM,ORG,the school board
+230,861,867,NOM,FAC,all of the schools in Orange County
+231,863,867,NOM,FAC,the schools in Orange County
+9,866,867,PROP,GPE,Orange County
+229,870,870,PRON,PER,they
+0,878,878,PRON,PER,Your
+141,878,879,NOM,PER,Your children
+195,884,886,NOM,FAC,the Mexican school
+61,894,895,PROP,PER,Mr. Mendez
+232,899,900,NOM,PER,No one
+61,903,903,PRON,PER,him
+51,911,911,PROP,PER,Sylvia
+51,913,913,PRON,PER,her
+107,913,914,NOM,PER,her brothers
+10,918,919,PROP,FAC,Hoover Elementary
+234,924,937,NOM,FAC,"“ the Mexican school , ” on Olive Street in the city of Westminster"
+195,925,927,NOM,FAC,the Mexican school
+11,931,932,PROP,FAC,Olive Street
+235,934,936,NOM,GPE,the city of
+4,937,937,PROP,GPE,Westminster
+236,939,940,NOM,FAC,The building
+237,942,944,NOM,FAC,a clapboard shack
+99,947,948,NOM,FAC,the halls
+239,955,957,NOM,LOC,A cow pasture
+122,959,960,NOM,FAC,the school
+241,962,963,NOM,PER,The students
+241,967,967,PRON,PER,their
+241,976,976,PRON,PER,their
+242,986,987,NOM,FAC,the pasture
+243,995,995,PRON,PER,you
+243,999,999,PRON,PER,you
+122,1004,1005,NOM,FAC,The school
+245,1009,1010,NOM,FAC,a playground
+246,1017,1019,NOM,PER,The Mendez family
+51,1030,1030,PROP,PER,Sylvia
+51,1032,1032,PRON,PER,her
+111,1032,1033,NOM,PER,her father
+248,1036,1036,NOM,PER,coworkers
+249,1038,1038,NOM,PER,friends
+250,1041,1042,NOM,PER,other parents
+146,1050,1050,PRON,PER,our
+147,1050,1051,NOM,PER,our kids
+148,1056,1058,NOM,FAC,an inferior school
+111,1061,1061,PRON,PER,he
+149,1069,1074,NOM,FAC,the building that ’s a problem
+150,1076,1080,NOM,PER,the teachers at the school
+122,1079,1080,NOM,FAC,the school
+146,1085,1085,PRON,PER,our
+152,1085,1086,NOM,PER,our children
+150,1090,1090,PRON,PER,They
+152,1092,1092,PRON,PER,them
+146,1103,1103,PRON,PER,our
+152,1103,1104,NOM,PER,our children
+154,1108,1108,NOM,PER,doctors
+155,1110,1110,NOM,PER,lawyers
+156,1113,1113,NOM,PER,teachers
+61,1116,1117,PROP,PER,Mr. Mendez
+251,1119,1120,NOM,PER,a group
+252,1123,1130,NOM,PER,Parents ’ Association of Mexican - American Children
+61,1132,1132,PRON,PER,He
+253,1142,1142,NOM,FAC,schools
+254,1145,1146,NOM,PER,all children
+254,1150,1150,PRON,PER,their
+61,1165,1165,PRON,PER,he
+255,1167,1167,NOM,PER,someone
+61,1173,1173,PRON,PER,he
+146,1187,1187,PRON,PER,We
+256,1195,1198,NOM,PER,Many of the parents
+257,1197,1198,NOM,PER,the parents
+258,1201,1205,NOM,FAC,farms owned by white families
+259,1204,1205,NOM,PER,white families
+256,1208,1208,PRON,PER,they
+256,1211,1211,PRON,PER,their
+256,1214,1214,PRON,PER,they
+260,1222,1224,NOM,PER,a truck driver
+61,1226,1227,PROP,PER,Mr. Mendez
+261,1231,1232,NOM,PER,a worker
+61,1235,1235,PRON,PER,his
+157,1239,1239,PRON,PER,You
+262,1244,1246,NOM,PER,the truck driver
+157,1249,1249,PRON,PER,you
+262,1256,1258,NOM,PER,The truck driver
+61,1260,1261,PROP,PER,Mr. Mendez
+264,1263,1289,NOM,PER,"a lawyer named David Marcus , who had filed a lawsuit on behalf of people in San Bernardino and had helped them integrate the public pools there"
+64,1266,1267,PROP,PER,David Marcus
+265,1277,1289,NOM,PER,people in San Bernardino and had helped them integrate the public pools there
+12,1279,1280,PROP,GPE,San Bernardino
+265,1284,1284,PRON,PER,them
+266,1286,1289,NOM,FAC,the public pools there
+253,1298,1298,NOM,FAC,schools
+268,1302,1316,NOM,FAC,"other public places as well , such as pools , parks , and movie theaters"
+269,1310,1310,NOM,FAC,pools
+270,1312,1312,NOM,FAC,parks
+271,1315,1316,NOM,FAC,movie theaters
+272,1318,1319,NOM,FAC,Some businesses
+273,1326,1330,NOM,PER,NO DOGS OR MEXICANS ALLOWED
+61,1332,1333,PROP,PER,Mr. Mendez
+65,1341,1342,PROP,PER,Mr. Marcus
+61,1353,1353,PRON,PER,his
+274,1359,1364,NOM,PER,NO DOGS MEXICAN ALLOWED PUBLIC POOL
+61,1371,1372,PROP,PER,Mr. Mendez
+65,1374,1375,PROP,PER,Mr. Marcus
+9,1379,1380,PROP,GPE,Orange County
+275,1383,1388,NOM,PER,people who had experienced similar problems
+51,1390,1390,PROP,PER,Sylvia
+51,1392,1392,PRON,PER,her
+111,1392,1393,NOM,PER,her father
+51,1401,1401,PRON,PER,she
+111,1403,1403,PRON,PER,him
+104,1405,1405,NOM,FAC,home
+51,1412,1412,PRON,PER,she
+111,1415,1415,PRON,PER,his
+111,1418,1418,PRON,PER,he
+111,1426,1426,PRON,PER,he
+60,1430,1430,PROP,PER,Sylvias
+278,1430,1431,NOM,PER,Sylvias mother
+279,1437,1438,NOM,FAC,the farm
+66,1440,1441,PROP,PER,Mrs. Mendez
+51,1444,1444,PROP,PER,Sylvia
+51,1446,1446,PRON,PER,her
+107,1446,1447,NOM,PER,her brothers
+281,1450,1450,NOM,FAC,school
+66,1454,1454,PRON,PER,she
+282,1459,1460,NOM,LOC,the fields
+66,1462,1462,PRON,PER,She
+283,1469,1470,NOM,VEH,the tractor
+284,1473,1474,NOM,PER,the workers
+65,1487,1488,PROP,PER,Mr. Marcus
+61,1490,1491,PROP,PER,Mr. Mendez
+285,1496,1502,NOM,PER,other families who were dealing with segregation
+285,1506,1506,PRON,PER,them
+286,1508,1510,NOM,PER,the Estrada family
+67,1512,1513,PROP,PER,Mr. Estrada
+67,1521,1521,PRON,PER,He
+67,1524,1524,PRON,PER,his
+287,1528,1533,NOM,PER,Americans of all races and backgrounds
+67,1537,1537,PRON,PER,he
+13,1540,1540,PROP,GPE,America
+67,1545,1545,PRON,PER,he
+67,1549,1549,PRON,PER,his
+288,1549,1550,NOM,PER,his children
+289,1558,1559,NOM,PER,white children
+61,1568,1569,PROP,PER,Mr. Mendez
+65,1578,1579,PROP,PER,Mr. Marcus
+100,1587,1587,NOM,PER,students
+51,1591,1591,PROP,PER,Sylvia
+51,1593,1593,PRON,PER,her
+107,1593,1594,NOM,PER,her brothers
+292,1596,1609,NOM,PER,more than five thousand children in the public school item all over Orange County
+293,1602,1609,NOM,FAC,the public school item all over Orange County
+9,1608,1609,PROP,GPE,Orange County
+65,1615,1616,PROP,PER,Mr. Marcus
+294,1619,1620,NOM,FAC,the courthouse
+286,1625,1627,NOM,PER,The Estrada family
+61,1630,1630,PROP,PER,Mendez
+296,1636,1638,NOM,PER,three more families
+297,1640,1641,NOM,PER,The families
+298,1644,1650,NOM,FAC,the different school districts in Orange County
+9,1649,1650,PROP,GPE,Orange County
+4,1652,1652,PROP,GPE,Westminster
+299,1652,1667,NOM,FAC,"Westminster ( where Sylvia lived ) , Garden Grove , El Modena , and Santa Ana"
+51,1655,1655,PROP,PER,Sylvia
+14,1659,1660,PROP,FAC,Garden Grove
+15,1662,1663,PROP,GPE,El Modena
+2,1666,1667,PROP,GPE,Santa Ana
+300,1674,1678,NOM,FAC,a courthouse in Los Angeles
+16,1677,1678,PROP,GPE,Los Angeles
+51,1680,1680,PROP,PER,Sylvia
+51,1682,1682,PRON,PER,her
+97,1682,1683,NOM,PER,her family
+97,1686,1686,PRON,PER,their
+302,1692,1693,NOM,FAC,the courtroom
+65,1706,1707,PROP,PER,Mr. Marcus
+303,1710,1719,NOM,PER,the stand parents from the different districts in Orange County
+304,1714,1716,NOM,GPE,the different districts
+9,1718,1719,PROP,GPE,Orange County
+305,1722,1726,NOM,PER,the superintendents from each district
+306,1725,1726,NOM,GPE,each district
+68,1734,1735,PROP,PER,Mr. Kent
+307,1737,1743,NOM,PER,the superintendent of the Garden Grove district
+308,1740,1743,NOM,FAC,the Garden Grove district
+68,1747,1747,PRON,PER,He
+68,1750,1750,PRON,PER,he
+309,1752,1752,NOM,PER,children
+195,1754,1756,NOM,FAC,the Mexican school
+309,1759,1759,PRON,PER,them
+309,1761,1761,PRON,PER,their
+51,1770,1770,PROP,PER,Sylvia
+51,1772,1772,PRON,PER,Her
+311,1781,1788,NOM,PER,any of the children at the Westminster school
+312,1783,1788,NOM,PER,the children at the Westminster school
+98,1786,1788,NOM,FAC,the Westminster school
+158,1792,1792,PRON,PER,you
+200,1794,1795,NOM,PER,the children
+65,1801,1802,PROP,PER,Mr. Marcus
+68,1804,1805,PROP,PER,Mr. Kent
+68,1807,1807,PRON,PER,he
+160,1811,1811,PRON,PER,We
+200,1817,1817,PRON,PER,them
+51,1825,1825,PROP,PER,Sylvia
+232,1830,1831,NOM,PER,No one
+51,1834,1834,PRON,PER,her
+232,1836,1836,PRON,PER,They
+51,1838,1838,PRON,PER,her
+98,1840,1842,NOM,FAC,the Westminster school
+51,1845,1845,PRON,PER,her
+158,1855,1855,PRON,PER,you
+309,1857,1857,NOM,PER,children
+195,1859,1861,NOM,FAC,the Mexican school
+65,1865,1866,PROP,PER,Mr. Marcus
+51,1868,1868,PROP,PER,Sylvia
+51,1870,1870,PRON,PER,her
+97,1870,1871,NOM,PER,her family
+309,1873,1873,PRON,PER,themselves
+68,1877,1878,PROP,PER,Mr. Kent
+309,1885,1885,PRON,PER,their
+309,1889,1889,PRON,PER,They
+309,1902,1902,PRON,PER,They
+104,1908,1908,NOM,FAC,home
+309,1910,1910,PRON,PER,They
+309,1921,1921,PRON,PER,They
+246,1934,1936,NOM,PER,The Mendez family
+165,1940,1941,NOM,FAC,the room
+68,1944,1945,PROP,PER,Mr. Kent
+68,1950,1950,PRON,PER,he
+317,1963,1975,NOM,PER,many of the two hundred ninety - two children at the Mexican school
+318,1965,1971,NOM,PER,the two hundred ninety - two children
+195,1973,1975,NOM,FAC,the Mexican school
+320,1979,1979,NOM,PER,whites
+65,1986,1987,PROP,PER,Mr. Marcus
+309,1992,1992,PRON,PER,their
+309,2003,2003,PRON,PER,they
+309,2009,2009,PRON,PER,their
+309,2014,2014,PRON,PER,their
+309,2019,2019,PRON,PER,their
+122,2028,2029,NOM,ORG,the school
+167,2034,2034,PRON,PER,you
+168,2037,2038,NOM,PER,white students
+69,2042,2042,PROP,PER,Mexicans
+167,2047,2047,PRON,PER,you
+309,2061,2061,PRON,PER,they
+61,2071,2072,PROP,PER,Mr. Mendez
+0,2080,2080,PRON,PER,my
+140,2080,2081,NOM,PER,my children
+98,2083,2085,NOM,FAC,the Westminster school
+61,2089,2089,PRON,PER,he
+61,2091,2091,PRON,PER,his
+65,2099,2100,PROP,PER,Mr. Marcus
+321,2105,2118,NOM,PER,a fourteen - year - old student from the Mexican school in El Modena
+322,2113,2118,NOM,FAC,the Mexican school in El Modena
+15,2117,2118,PROP,GPE,El Modena
+321,2120,2120,PRON,PER,Her
+70,2123,2124,PROP,PER,Carol Torres
+321,2126,2126,PRON,PER,She
+321,2135,2135,PRON,PER,she
+195,2141,2143,NOM,FAC,the Mexican school
+321,2145,2145,PRON,PER,she
+324,2153,2155,NOM,PER,the defense lawyers
+325,2158,2158,PROP,PER,Mr.
+66,2160,2161,PROP,PER,Mrs. Mendez
+62,2174,2175,PROP,PER,Mr. Harris
+223,2177,2182,NOM,PER,the superintendent of the Westminster school
+98,2180,2182,NOM,FAC,the Westminster school
+51,2184,2184,PROP,PER,Sylvia
+51,2193,2193,PRON,PER,she
+324,2199,2199,PRON,PER,they
+51,2201,2201,PRON,PER,her
+51,2204,2204,PRON,PER,She
+51,2208,2208,PRON,PER,her
+51,2214,2214,PRON,PER,she
+51,2217,2217,PRON,PER,she
+65,2231,2232,PROP,PER,Mr. Marcus
+328,2237,2239,NOM,PER,two education specialists
+309,2248,2248,NOM,PER,children
+330,2250,2251,NOM,FAC,different schools
+171,2267,2272,NOM,PER,the people of the United States
+172,2270,2272,NOM,GPE,the United States
+173,2274,2275,NOM,PER,one another
+171,2280,2280,PRON,PER,them
+135,2286,2288,NOM,FAC,the public school
+175,2295,2300,NOM,PER,the children of all the people
+331,2305,2307,NOM,PER,one of them
+328,2307,2307,PRON,PER,them
+332,2309,2310,NOM,PER,The judge
+332,2312,2312,PRON,PER,his
+332,2315,2315,PRON,PER,He
+71,2323,2325,PROP,PER,Judge Paul McCormick
+71,2332,2332,PRON,PER,his
+71,2339,2339,PRON,PER,he
+71,2342,2342,PRON,PER,he
+246,2347,2349,NOM,PER,the Mendez family
+71,2352,2352,PRON,PER,his
+71,2355,2355,PRON,PER,he
+254,2365,2366,NOM,PER,all children
+177,2368,2369,NOM,ORG,unified school
+334,2379,2379,NOM,PER,everyone
+281,2385,2385,NOM,FAC,school
+336,2390,2390,PRON,PER,his
+337,2392,2392,PRON,PER,her
+51,2404,2404,PROP,PER,Sylvia
+338,2404,2406,NOM,PER,Sylvia ’s family
+338,2411,2411,PRON,PER,they
+229,2420,2422,NOM,PER,the school board
+338,2430,2430,PRON,PER,they
+340,2450,2456,NOM,FAC,the Court of Appeals in San Francisco
+17,2455,2456,PROP,GPE,San Francisco
+246,2462,2464,NOM,PER,the Mendez family
+342,2468,2474,NOM,PER,the League of United Latin American Citizens
+343,2476,2484,NOM,PER,the National Association for the Advancement of Colored People
+344,2486,2490,NOM,PER,the Japanese American Citizens League
+18,2492,2495,PROP,ORG,the American Jewish Congress
+345,2501,2502,NOM,PER,These groups
+332,2513,2514,NOM,PER,the judge
+246,2520,2522,NOM,PER,the Mendez family
+51,2524,2524,PROP,PER,Sylvia
+348,2528,2544,NOM,PER,people of different backgrounds and from different parts of the country who had never met her family
+349,2537,2538,NOM,GPE,the country
+51,2543,2543,PRON,PER,her
+97,2543,2544,NOM,PER,her family
+97,2555,2555,PRON,PER,them
+51,2558,2558,PRON,PER,her
+106,2558,2559,NOM,PER,her mother
+178,2578,2578,PRON,PER,you
+179,2583,2583,NOM,PER,others
+352,2592,2601,NOM,PER,the judges in the Court of Appeals in San Francisco
+340,2595,2601,NOM,ORG,the Court of Appeals in San Francisco
+17,2600,2601,PROP,GPE,San Francisco
+246,2606,2608,NOM,PER,the Mendez family
+72,2614,2616,PROP,PER,Governor Earl Warren
+355,2623,2626,NOM,PER,all children in California
+3,2626,2626,PROP,GPE,California
+60,2651,2651,PROP,PER,Sylvias
+278,2651,2652,NOM,PER,Sylvias mother
+180,2655,2655,PRON,PER,we
+178,2660,2660,PRON,PER,you
+51,2672,2672,PROP,PER,Sylvia
+51,2679,2679,PRON,PER,her
+106,2679,2680,NOM,PER,her mother
+51,2687,2687,PRON,PER,she
+98,2690,2692,NOM,FAC,the Westminster school
+51,2696,2696,PRON,PER,she
+51,2704,2704,PRON,PER,She
+359,2706,2715,NOM,PER,the children who pointed at her and called her names
+51,2711,2711,PRON,PER,her
+51,2714,2714,PRON,PER,her
+51,2719,2719,PRON,PER,she
+51,2721,2721,PRON,PER,her
+51,2725,2725,PRON,PER,Her
+360,2725,2726,NOM,PER,Her parents
+51,2732,2732,PRON,PER,her
+51,2734,2734,PRON,PER,her
+107,2734,2735,NOM,PER,her brothers
+360,2739,2739,PRON,PER,their
+362,2739,2740,NOM,PER,their classmates
+51,2745,2745,PRON,PER,she
+363,2748,2749,NOM,PER,other children
+51,2753,2753,PRON,PER,her
+51,2762,2762,PRON,PER,she
+364,2765,2766,NOM,PER,a friend
+51,2777,2777,PRON,PER,she
+365,2780,2784,NOM,PER,many friends of different backgrounds
+51,2786,2786,PRON,PER,She
+51,2789,2789,PRON,PER,her
+97,2789,2790,NOM,PER,her family
+172,2813,2815,NOM,GPE,the United States
+368,2817,2822,NOM,FAC,The Mendez v. Westminster School District
+19,2820,2822,PROP,FAC,Westminster School District
+369,2831,2833,NOM,FAC,schools in America
+13,2833,2833,PROP,GPE,America
+20,2847,2847,PROP,GPE,Texas
+21,2849,2849,PROP,GPE,Arizona
+73,2864,2864,PROP,PER,Brown
+370,2866,2874,NOM,FAC,Board of Education desegregated schools in the entire country
+371,2872,2874,NOM,GPE,the entire country
+372,2876,2885,NOM,PER,Two people who played key roles in the Brown case
+74,2895,2896,PROP,PER,Thurgood Marshall
+72,2898,2899,PROP,PER,Earl Warren
+373,2902,2913,NOM,PER,a member of the National Association for the Advancement of Colored People
+343,2905,2913,NOM,ORG,the National Association for the Advancement of Colored People
+74,2915,2915,PROP,PER,Marshall
+375,2918,2925,NOM,PER,friend - of - the - court briefs
+332,2927,2928,NOM,PER,the judge
+74,2937,2937,PRON,PER,he
+74,2942,2942,PRON,PER,He
+74,2951,2951,PRON,PER,he
+377,2953,2954,NOM,PER,the lawyer
+72,2960,2961,PROP,PER,Earl Warren
+378,2963,2978,NOM,PER,the governor who signed into law the desegregation of schools in California after the Mendez victory
+379,2972,2974,NOM,FAC,schools in California
+3,2974,2974,PROP,GPE,California
+72,2980,2980,PRON,PER,He
+380,2983,2991,NOM,PER,the chief justice of the U. S. Supreme Court
+381,2987,2991,NOM,ORG,the U. S. Supreme Court
+72,2993,2993,PRON,PER,He
+73,3002,3002,PROP,PER,Brown
+51,3006,3006,PROP,PER,Sylvia
+51,3012,3012,PRON,PER,her
+107,3012,3013,NOM,PER,her brothers
+98,3015,3017,NOM,FAC,the Westminster school
+51,3019,3019,PRON,PER,her
+97,3019,3020,NOM,PER,her family
+2,3024,3025,PROP,GPE,Santa Ana
+51,3027,3027,PROP,PER,Sylvia
+385,3030,3033,NOM,FAC,an integrated high school
+22,3036,3038,PROP,FAC,California State University
+51,3041,3041,PRON,PER,she
+386,3045,3047,NOM,PER,a registered nurse
+51,3049,3049,PRON,PER,She
+387,3057,3062,NOM,FAC,a medical center in Los Angeles
+16,3061,3062,PROP,GPE,Los Angeles
+51,3070,3070,PRON,PER,her
+388,3070,3072,NOM,PER,her ill mother
+51,3074,3074,PROP,PER,Sylvia
+53,3078,3078,PROP,PER,Felicitas
+51,3082,3082,PRON,PER,she
+389,3087,3089,NOM,PER,so few people
+51,3096,3096,PRON,PER,her
+97,3096,3097,NOM,PER,her family
+253,3112,3112,NOM,FAC,schools
+23,3117,3119,PROP,ORG,Board of Education
+51,3126,3126,PROP,PER,Mendez
+4,3128,3128,PROP,GPE,Westminster
+392,3132,3133,NOM,PER,few Americans
+51,3139,3139,PRON,PER,her
+106,3139,3140,NOM,PER,her mother
+51,3143,3143,PROP,PER,Sylvia
+51,3146,3146,PRON,PER,her
+222,3150,3150,NOM,PER,people
+51,3152,3152,PRON,PER,her
+97,3152,3153,NOM,PER,her family
+396,3196,3201,NOM,FAC,a public school in Santa Ana
+2,3200,3201,PROP,GPE,Santa Ana
+53,3205,3205,PROP,PER,Felicitas
+397,3210,3213,NOM,ORG,the U.S. Postal Service
+51,3221,3221,PROP,PER,Mendez
+398,3227,3232,NOM,FAC,a high school in Los Angeles
+16,3231,3232,PROP,GPE,Los Angeles
+24,3235,3241,PROP,FAC,the Felicitas and Gonzalo Mendez Learning Center
+51,3247,3248,PROP,PER,Sylvia Mendez
+75,3256,3258,PROP,PER,President Barack Obama
+399,3266,3267,NOM,PER,a person
+13,3271,3271,PROP,GPE,America
+400,3278,3283,NOM,PER,courageous people like the Mendez family
+246,3281,3283,NOM,PER,the Mendez family
+402,3288,3289,NOM,FAC,public schools
+172,3293,3295,NOM,GPE,the United States
+404,3322,3330,NOM,PER,the Civil Rights Project at the University of California
+25,3327,3330,PROP,FAC,the University of California
+3,3330,3330,PROP,GPE,California
+16,3332,3333,PROP,GPE,Los Angeles
+172,3336,3338,NOM,GPE,the United States
+406,3347,3347,PRON,PER,It
+407,3350,3372,NOM,PER,43 percent of Latino students and 38 percent of black students attend schools where fewer than 1O percent of their classmates are white
+408,3353,3354,NOM,PER,Latino students
+409,3356,3360,NOM,PER,38 percent of black students
+410,3359,3360,NOM,PER,black students
+409,3369,3369,PRON,PER,their
+362,3369,3370,NOM,PER,their classmates
+412,3381,3384,NOM,ORG,the Department of Education
+413,3389,3392,NOM,PER,Latino and black children
+414,3402,3405,NOM,PER,the majority of students
+100,3405,3405,NOM,PER,students
+413,3411,3411,PRON,PER,their
+416,3411,3412,NOM,FAC,their schools
+417,3420,3422,NOM,PER,less experienced teachers
+180,3427,3427,PRON,PER,I
+180,3432,3432,PRON,PER,I
+418,3436,3440,NOM,LOC,different parts of the country
+349,3439,3440,NOM,GPE,the country
+180,3447,3447,PRON,PER,my
+246,3450,3452,NOM,PER,The Mendez family
+246,3462,3462,PRON,PER,their
+421,3469,3474,NOM,PER,the education specialists in the trial
+309,3480,3480,NOM,PER,children
+423,3486,3487,NOM,PER,one group
+424,3493,3493,PRON,PER,We
+424,3510,3510,PRON,PER,we
+173,3514,3515,NOM,PER,one another
+334,3520,3520,NOM,PER,everyone
+180,3528,3528,PRON,PER,My
+309,3536,3536,NOM,PER,children
+428,3538,3539,NOM,PER,young people
+180,3552,3552,PRON,PER,I
+246,3556,3556,PRON,PER,they
+246,3559,3559,PRON,PER,themselves
+51,3562,3562,PROP,PER,Sylvia
+246,3568,3568,PRON,PER,their
+246,3574,3574,PRON,PER,they
+429,3581,3582,NOM,GPE,this country
+56,3584,3585,PROP,PER,Gonzalo Mendez
+51,3596,3596,PROP,PER,Sylvia
+430,3598,3600,NOM,PER,a young girl
+51,3607,3607,PROP,PER,Sylvia
+51,3621,3621,PROP,PER,Sylvia
+431,3621,3623,NOM,PER,Sylvia ’s parents
+98,3630,3632,NOM,FAC,The Westminster school
+10,3637,3638,PROP,FAC,Hoover Elementary
+433,3650,3662,NOM,ORG,an association that promotes Jewish interests in the United States and other countries
+172,3657,3659,NOM,GPE,the United States
+435,3661,3662,NOM,GPE,other countries
+436,3675,3677,NOM,ORG,a higher court
+437,3693,3694,NOM,PER,a lawyer
+438,3703,3710,NOM,PER,"opposing parties , resolved by a court citizen"
+439,3712,3729,NOM,PER,a person who owes allegiance to the government and is entitled to full civic rights and privileges court
+440,3718,3728,NOM,PER,the government and is entitled to full civic rights and privileges
+441,3731,3745,NOM,PER,a judge or a judicial body that makes decisions in cases according to the law
+442,3746,3746,NOM,FAC,courthouse
+443,3748,3757,NOM,FAC,a building where a case is tried court of appeals
+444,3759,3767,NOM,PER,a court that reviews decisions made by lower courts
+445,3768,3768,NOM,FAC,courtroom
+446,3770,3792,NOM,FAC,a room within a courthouse where a case is tried decision : a judge ’s conclusion after hearing both sides of a case
+447,3773,3777,NOM,FAC,a courthouse where a case
+448,3782,3783,NOM,PER,a judge
+179,3812,3812,NOM,PER,others
+179,3821,3821,PRON,PER,their
+450,3830,3841,NOM,PER,a group of people who have a common national or cultural tradition
+451,3842,3844,NOM,PER,field - worker
+452,3846,3876,NOM,PER,"an agricultural laborer , often working long hours for low pay hygiene : conditions relating to health , especially personal wellbeing impetigo : a skin disease inferior : of lesser quality"
+453,3897,3902,NOM,PER,other groups Japanese American Citizens League
+454,3904,3916,NOM,ORG,an association that protects civil and human rights and works for social change
+455,3920,3926,NOM,PER,the Asian - Pacific American community judge
+456,3928,3955,NOM,PER,"a public official , appointed or elected , who oversees cases in a court lawsuit : a dispute brought to a court for a decision to be made"
+457,3957,3959,NOM,PER,a case lawyer
+458,3961,3966,NOM,PER,a person educated in the law
+459,3969,3978,NOM,PER,others on legal matters League of United Latin American Citizens
+460,3980,3997,NOM,PER,the largest Latino civil rights organization in the United States National Association for the Advancement of Colored People
+172,3987,3989,NOM,GPE,the United States
+462,3990,3997,NOM,PER,National Association for the Advancement of Colored People
+463,3999,4036,NOM,PER,an association that works for equal rights and to eliminate racial discrimination opportunity : a chance to advance petition : a formal written document requesting a right or benefit from a person or group in authority public school
+464,4029,4034,NOM,PER,a person or group in authority
+465,4035,4036,NOM,FAC,public school
+466,4038,4048,NOM,ORG,a school paid for by public funds that provides free education
+467,4050,4056,NOM,PER,the children of a community or district
+468,4053,4056,NOM,GPE,a community or district
+469,4071,4072,NOM,ORG,school board
+470,4074,4088,NOM,PER,a group of public officials that oversees public schools in a defined area school district
+402,4081,4082,NOM,ORG,public schools
+472,4084,4086,NOM,GPE,a defined area
+473,4087,4088,NOM,ORG,school district
+474,4090,4091,NOM,GPE,an area
+475,4095,4096,NOM,GPE,a neighborhood
+131,4098,4098,NOM,GPE,town
+477,4101,4101,NOM,GPE,county
+478,4104,4108,NOM,FAC,public schools are administered together
+479,4113,4124,NOM,PER,"people based on race , ethnicity , class , or other factors"
+26,4141,4141,PROP,GPE,Plessy
+480,4150,4153,NOM,PER,certain groups of people
+481,4159,4160,NOM,FAC,public spaces
+253,4164,4164,NOM,FAC,schools
+483,4166,4166,NOM,FAC,housing
+484,4168,4169,NOM,FAC,eating establishments
+269,4173,4173,NOM,FAC,pools
+486,4176,4177,NOM,FAC,entertainment facilities
+480,4182,4182,PRON,PER,they
+487,4195,4211,NOM,FAC,a courtroom where a witness sits ( or stands ) while being questioned by a lawyer superintendent
+488,4198,4199,NOM,PER,a witness
+489,4209,4211,NOM,PER,a lawyer superintendent
+490,4213,4218,NOM,PER,the head of a school district
+491,4216,4218,NOM,FAC,a school district
+492,4220,4220,NOM,GPE,States
+493,4227,4229,NOM,PER,a school superintendent
+448,4252,4253,NOM,PER,a judge
+495,4255,4255,NOM,PER,jury
+496,4278,4292,NOM,GPE,"an area , such as Puerto Rico , that is governed by the United States"
+8,4283,4284,PROP,GPE,Puerto Rico
+172,4290,4292,NOM,GPE,the United States
+498,4296,4297,NOM,GPE,a state
+51,4305,4306,PROP,PER,Sylvia Mendez
+27,4308,4308,PROP,GPE,Austin
+20,4310,4310,PROP,GPE,Texas
+28,4317,4317,PROP,GPE,Fullerton
+3,4319,4319,PROP,GPE,California
+76,4329,4331,PROP,PER,Mendez v. Westminster
+499,4339,4343,NOM,FAC,the National Archives at Riverside
+29,4343,4343,PROP,GPE,Riverside
+77,4345,4345,PROP,PER,Perris
+30,4347,4347,PROP,GPE,Calif.
+76,4354,4356,PROP,PER,Mendez u. Westminster
+500,4364,4369,NOM,FAC,the National Archives at San Francisco
+17,4368,4369,PROP,GPE,San Francisco
+31,4371,4371,PROP,GPE,Bruno
+30,4373,4373,PROP,GPE,Calif.
+501,4379,4384,NOM,FAC,the National Archives and Record Administration
+78,4391,4391,PROP,PER,Bennett
+79,4393,4393,PROP,PER,Erica
+80,4396,4397,PROP,PER,Fred Paskiewicz
+76,4399,4399,PROP,PER,Mendez
+4,4401,4401,PROP,GPE,Westminster
+502,4403,4405,NOM,PER,Families for Equality
+28,4407,4407,PROP,GPE,Fullerton
+30,4409,4409,PROP,GPE,Calif.
+32,4411,4412,PROP,FAC,Fullerton College
+33,4416,4416,PROP,GPE,Robbie
+81,4418,4418,PROP,PER,Sandra
+76,4420,4422,PROP,PER,Mendez vs. Westminster
+503,4429,4431,NOM,PER,Para todos losninos
+34,4433,4434,PROP,FAC,Huntington Beach
+30,4436,4436,PROP,GPE,Calif.
+35,4447,4447,PROP,GPE,Winifred
+51,4449,4449,PROP,PER,Sylvia
+36,4453,4453,PROP,GPE,Berkeley
+30,4455,4455,PROP,GPE,Calif.
+82,4462,4462,PROP,PER,Matsuda
+83,4464,4464,PROP,PER,Michael
+81,4467,4468,PROP,PER,Sandra Robbie
+37,4470,4471,PROP,FAC,Los Mendez
+504,4473,4476,NOM,FAC,la ciudad de Westminster
+4,4476,4476,PROP,GPE,Westminster
+505,4478,4481,NOM,PER,Por todos los ninos
+38,4492,4494,PROP,FAC,los Estados Unidos
+39,4496,4497,PROP,FAC,Yorba Linda
+30,4499,4499,PROP,GPE,Calif.
+40,4501,4503,PROP,FAC,Blue State Press
+84,4507,4507,PROP,PER,Strum
+85,4509,4509,PROP,PER,Philippa
+51,4511,4511,PROP,PER,Mendez
+4,4513,4513,PROP,GPE,Westminster
+41,4523,4523,PROP,GPE,Lawrence
+42,4525,4525,PROP,GPE,Kans.
+43,4527,4530,PROP,FAC,University Press of Kansas
+44,4530,4530,PROP,GPE,Kansas
+86,4537,4537,PROP,PER,Arriola
+87,4539,4539,PROP,PER,Christopher
+181,4544,4546,NOM,FAC,the Schoolhouse Door
+51,4548,4548,PROP,PER,Mendez
+4,4550,4550,PROP,GPE,Westminster
+182,4555,4556,NOM,FAC,Public Education
+183,4559,4564,NOM,PER,Mexican Americans in the 1940 ’s
+25,4582,4585,PROP,FAC,the University of California
+3,4585,4585,PROP,GPE,California
+16,4587,4588,PROP,GPE,Los Angeles
+184,4601,4602,NOM,PER,More Students
+88,4613,4613,PROP,PER,Luhby
+89,4615,4615,PROP,PER,Tami
+90,4649,4649,PROP,PER,Orfield
+91,4651,4651,PROP,PER,Gary
+92,4653,4654,PROP,PER,John Kucsera
+93,4657,4660,PROP,PER,Genevieve Siegel - Hawley
+185,4663,4663,PRON,PER,E
+506,4685,4687,NOM,GPE,University of California
+16,4689,4690,PROP,GPE,Los Angeles
+94,4694,4696,PROP,PER,"Rich , Motoko"
+45,4709,4710,PROP,GPE,York Times
+253,4730,4730,NOM,FAC,schools
+95,4742,4742,PROP,PER,Ruiz
+508,4744,4745,NOM,ORG,Vicki L.
+46,4744,4745,PROP,ORG,Vicki L.
+186,4747,4747,PRON,PER,We
+186,4750,4750,PRON,PER,Our
+152,4750,4751,NOM,PER,Our Children
+152,4752,4752,PRON,PER,They
+51,4756,4756,PROP,PER,Mendez
+4,4758,4758,PROP,GPE,Westminster
+47,4760,4764,PROP,FAC,the California Road to Brown
+23,4766,4768,PROP,ORG,Board of Education
+73,4788,4788,PROP,PER,Brown
+23,4790,4792,PROP,ORG,Board of Education
+51,4807,4807,PROP,PER,Mendez
+4,4809,4809,PROP,GPE,Westminster
+51,4814,4814,PROP,PER,Sylvia
+96,4816,4818,PROP,PER,Sandra Mendez Duran
+51,4826,4827,PROP,PER,Sylvia Mendez
+509,4826,4830,NOM,FAC,Sylvia Mendez ’s personal site
+51,4843,4844,PROP,PER,Sylvia Mendez
+0,4870,4870,PRON,PER,I
+0,4892,4892,PRON,PER,I
+51,4895,4896,PROP,PER,Sylvia Mendez
+18,4916,4918,PROP,ORG,American Jewish Congress
+63,4921,4921,PROP,PER,Atkinson
+188,4923,4923,PROP,PER,Mr.
+189,4925,4926,NOM,PER,county superintendent
+3,4929,4929,PROP,GPE,California
+67,4936,4937,PROP,PER,Estrada family
+49,4948,4948,PROP,GPE,Harris
+190,4950,4950,PROP,PER,Mr.
+191,4952,4965,NOM,PER,"school superintendent , 12 - 13 , 13 , 28 Japanese American Citizens League"
+50,4968,4968,PROP,GPE,Kent
+192,4970,4970,NOM,PER,Mr.
+193,4972,4973,NOM,PER,school superintendent
+194,4980,4985,NOM,PER,League of United Latin American Citizens
+16,4988,4989,PROP,GPE,Los Angeles
+65,4997,4997,PROP,PER,Marcus
